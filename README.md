@@ -14,16 +14,16 @@ The goal of this challenge was to analyze and extract valuable insights from hea
 ## Contents
 
 A Jupyter notebook containing the full data analysis pipeline. This includes:
-i. Data cleaning.
-ii. Analysis of outpatient and inpatient payments.
-iii. Time series analysis of APC services.
-iv. Geographical analysis of affordable providers.
-v. Analysis of ICD-10 diagnosis codes.
+1. Data cleaning.
+2. Analysis of outpatient and inpatient payments.
+3. Time series analysis of APC services.
+4. Geographical analysis of affordable providers.
+5. Analysis of ICD-10 diagnosis codes.
 ## Data
 
-i inpatient_data.csv: Contains inpatient charges data.
-ii. outpatient_data.csv: Contains outpatient charges data.
-iii. icd10_data.csv: Contains ICD-10 diagnosis data.
+1. inpatient_data.csv: Contains inpatient charges data.
+2. outpatient_data.csv: Contains outpatient charges data.
+3. icd10_data.csv: Contains ICD-10 diagnosis data.
 
 ## Tableau_link.txt
 
@@ -37,10 +37,11 @@ Contains data on inpatient charges, including total discharges, Medicare payment
 Contains outpatient charges, with details about average payments, APC services, and various provider information.
 3. icd10_data.csv
 Contains the ICD-10 diagnosis codes and related data, used to analyze prominent diagnoses by state and chapter/block descriptions.
-Additional Information
+
+## Additional Information
 N/B ; This project was built using Python (Jupyter Notebook) for analysis and Tableau for visualization.
 
 
-Author
+## Author
 Created by Anna_Nyamoita.
 Feel free to reach out via LinkedIn @ Anna_Nyamoita (  https://www.linkedin.com/in/annanyamoita/ ) if you have any questions or feedback.
