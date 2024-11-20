@@ -1,6 +1,6 @@
 # Data-Analyst-Screening-Challenge
 
-This repository contains the analysis and insights for the Data Analyst Screening Challenge by Savannah Informatics. It demonstrates the analysis of healthcare data, including outpatient and inpatient charges, along with ICD-10 diagnosis data. The work was completed using Python for data analysis and Tableau for data visualization.
+This repository contains the analysis and insights for the Data Analyst Screening Challenge. It demonstrates the analysis of healthcare data, including outpatient and inpatient charges, along with ICD-10 diagnosis data. The work was completed using Python for data analysis and Tableau for data visualization.
 
 ## Project Overview
 
