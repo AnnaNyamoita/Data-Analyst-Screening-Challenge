@@ -1,0 +1,1824 @@
+Code,Title,Chapter_Block,Category,provider_state
+G81,Hemiplegia,G80-G83,category,TX
+G81,Hemiplegia,G80-G83,category,NY
+G81,Hemiplegia,G80-G83,category,OK
+G81,Hemiplegia,G80-G83,category,ND
+G81,Hemiplegia,G80-G83,category,ID
+G81,Hemiplegia,G80-G83,category,IN
+G81,Hemiplegia,G80-G83,category,PA
+G81,Hemiplegia,G80-G83,category,NE
+G81,Hemiplegia,G80-G83,category,OR
+G81,Hemiplegia,G80-G83,category,LA
+G81,Hemiplegia,G80-G83,category,GA
+G81,Hemiplegia,G80-G83,category,MI
+G81,Hemiplegia,G80-G83,category,NV
+G81,Hemiplegia,G80-G83,category,OH
+G81,Hemiplegia,G80-G83,category,FL
+G81,Hemiplegia,G80-G83,category,IL
+G81,Hemiplegia,G80-G83,category,IA
+G81,Hemiplegia,G80-G83,category,AZ
+G81,Hemiplegia,G80-G83,category,CA
+T79,"Certain early complications of trauma, not elsewhere classified",T79-T79,category,TX
+T79,"Certain early complications of trauma, not elsewhere classified",T79-T79,category,OK
+T79,"Certain early complications of trauma, not elsewhere classified",T79-T79,category,PA
+T79,"Certain early complications of trauma, not elsewhere classified",T79-T79,category,IN
+T79,"Certain early complications of trauma, not elsewhere classified",T79-T79,category,IA
+T79,"Certain early complications of trauma, not elsewhere classified",T79-T79,category,OR
+T79,"Certain early complications of trauma, not elsewhere classified",T79-T79,category,FL
+T79,"Certain early complications of trauma, not elsewhere classified",T79-T79,category,ID
+T79,"Certain early complications of trauma, not elsewhere classified",T79-T79,category,GA
+T79,"Certain early complications of trauma, not elsewhere classified",T79-T79,category,IL
+T79,"Certain early complications of trauma, not elsewhere classified",T79-T79,category,MI
+T79,"Certain early complications of trauma, not elsewhere classified",T79-T79,category,NE
+T79,"Certain early complications of trauma, not elsewhere classified",T79-T79,category,NV
+T79,"Certain early complications of trauma, not elsewhere classified",T79-T79,category,CA
+T79,"Certain early complications of trauma, not elsewhere classified",T79-T79,category,NY
+I02,Rheumatic chorea,I00-I02,category,TX
+I02,Rheumatic chorea,I00-I02,category,OK
+I02,Rheumatic chorea,I00-I02,category,NY
+I02,Rheumatic chorea,I00-I02,category,GA
+I02,Rheumatic chorea,I00-I02,category,ND
+I02,Rheumatic chorea,I00-I02,category,PA
+I02,Rheumatic chorea,I00-I02,category,ID
+I02,Rheumatic chorea,I00-I02,category,LA
+I02,Rheumatic chorea,I00-I02,category,NE
+I02,Rheumatic chorea,I00-I02,category,FL
+I02,Rheumatic chorea,I00-I02,category,MI
+I02,Rheumatic chorea,I00-I02,category,OR
+I02,Rheumatic chorea,I00-I02,category,IN
+I02,Rheumatic chorea,I00-I02,category,IL
+I02,Rheumatic chorea,I00-I02,category,OH
+I02,Rheumatic chorea,I00-I02,category,AZ
+I02,Rheumatic chorea,I00-I02,category,NV
+I02,Rheumatic chorea,I00-I02,category,AL
+I02,Rheumatic chorea,I00-I02,category,IA
+I02,Rheumatic chorea,I00-I02,category,CA
+I02,Rheumatic chorea,I00-I02,category,UT
+D18,"Haemangioma and lymphangioma, any site",D10-D36,category,TX
+D18,"Haemangioma and lymphangioma, any site",D10-D36,category,OK
+D18,"Haemangioma and lymphangioma, any site",D10-D36,category,NY
+D18,"Haemangioma and lymphangioma, any site",D10-D36,category,PA
+D18,"Haemangioma and lymphangioma, any site",D10-D36,category,KS
+D18,"Haemangioma and lymphangioma, any site",D10-D36,category,GA
+D18,"Haemangioma and lymphangioma, any site",D10-D36,category,LA
+D18,"Haemangioma and lymphangioma, any site",D10-D36,category,ND
+D18,"Haemangioma and lymphangioma, any site",D10-D36,category,NE
+D18,"Haemangioma and lymphangioma, any site",D10-D36,category,IN
+D18,"Haemangioma and lymphangioma, any site",D10-D36,category,OR
+D18,"Haemangioma and lymphangioma, any site",D10-D36,category,MI
+D18,"Haemangioma and lymphangioma, any site",D10-D36,category,ID
+D18,"Haemangioma and lymphangioma, any site",D10-D36,category,OH
+D18,"Haemangioma and lymphangioma, any site",D10-D36,category,AL
+D18,"Haemangioma and lymphangioma, any site",D10-D36,category,FL
+D18,"Haemangioma and lymphangioma, any site",D10-D36,category,NV
+D18,"Haemangioma and lymphangioma, any site",D10-D36,category,IL
+D18,"Haemangioma and lymphangioma, any site",D10-D36,category,AZ
+D18,"Haemangioma and lymphangioma, any site",D10-D36,category,IA
+D18,"Haemangioma and lymphangioma, any site",D10-D36,category,CA
+D18,"Haemangioma and lymphangioma, any site",D10-D36,category,UT
+P12,Birth injury to scalp,P10-P15,category,OK
+P12,Birth injury to scalp,P10-P15,category,TX
+P12,Birth injury to scalp,P10-P15,category,LA
+P12,Birth injury to scalp,P10-P15,category,NY
+P12,Birth injury to scalp,P10-P15,category,PA
+P12,Birth injury to scalp,P10-P15,category,ID
+P12,Birth injury to scalp,P10-P15,category,ND
+P12,Birth injury to scalp,P10-P15,category,OR
+P12,Birth injury to scalp,P10-P15,category,GA
+P12,Birth injury to scalp,P10-P15,category,NE
+P12,Birth injury to scalp,P10-P15,category,MI
+P12,Birth injury to scalp,P10-P15,category,IN
+P12,Birth injury to scalp,P10-P15,category,FL
+P12,Birth injury to scalp,P10-P15,category,CA
+P12,Birth injury to scalp,P10-P15,category,OH
+P12,Birth injury to scalp,P10-P15,category,AZ
+P12,Birth injury to scalp,P10-P15,category,NV
+P12,Birth injury to scalp,P10-P15,category,IL
+P12,Birth injury to scalp,P10-P15,category,IA
+P12,Birth injury to scalp,P10-P15,category,UT
+D22,Melanocytic naevi,D10-D36,category,TX
+D22,Melanocytic naevi,D10-D36,category,OK
+D22,Melanocytic naevi,D10-D36,category,LA
+D22,Melanocytic naevi,D10-D36,category,NY
+D22,Melanocytic naevi,D10-D36,category,PA
+D22,Melanocytic naevi,D10-D36,category,GA
+D22,Melanocytic naevi,D10-D36,category,ND
+D22,Melanocytic naevi,D10-D36,category,KS
+D22,Melanocytic naevi,D10-D36,category,IN
+D22,Melanocytic naevi,D10-D36,category,NE
+D22,Melanocytic naevi,D10-D36,category,MI
+D22,Melanocytic naevi,D10-D36,category,AZ
+D22,Melanocytic naevi,D10-D36,category,OH
+D22,Melanocytic naevi,D10-D36,category,ID
+D22,Melanocytic naevi,D10-D36,category,FL
+D22,Melanocytic naevi,D10-D36,category,IL
+D22,Melanocytic naevi,D10-D36,category,OR
+D22,Melanocytic naevi,D10-D36,category,AL
+D22,Melanocytic naevi,D10-D36,category,IA
+D22,Melanocytic naevi,D10-D36,category,CA
+D22,Melanocytic naevi,D10-D36,category,NV
+D22,Melanocytic naevi,D10-D36,category,UT
+B96,Other specified bacterial agents as the cause of diseases classified to other chapters,B95-B98,category,OK
+B96,Other specified bacterial agents as the cause of diseases classified to other chapters,B95-B98,category,TX
+B96,Other specified bacterial agents as the cause of diseases classified to other chapters,B95-B98,category,NY
+B96,Other specified bacterial agents as the cause of diseases classified to other chapters,B95-B98,category,KS
+B96,Other specified bacterial agents as the cause of diseases classified to other chapters,B95-B98,category,PA
+B96,Other specified bacterial agents as the cause of diseases classified to other chapters,B95-B98,category,GA
+B96,Other specified bacterial agents as the cause of diseases classified to other chapters,B95-B98,category,ID
+B96,Other specified bacterial agents as the cause of diseases classified to other chapters,B95-B98,category,ND
+B96,Other specified bacterial agents as the cause of diseases classified to other chapters,B95-B98,category,OR
+B96,Other specified bacterial agents as the cause of diseases classified to other chapters,B95-B98,category,IN
+B96,Other specified bacterial agents as the cause of diseases classified to other chapters,B95-B98,category,NE
+B96,Other specified bacterial agents as the cause of diseases classified to other chapters,B95-B98,category,LA
+B96,Other specified bacterial agents as the cause of diseases classified to other chapters,B95-B98,category,IA
+B96,Other specified bacterial agents as the cause of diseases classified to other chapters,B95-B98,category,FL
+B96,Other specified bacterial agents as the cause of diseases classified to other chapters,B95-B98,category,MI
+B96,Other specified bacterial agents as the cause of diseases classified to other chapters,B95-B98,category,OH
+B96,Other specified bacterial agents as the cause of diseases classified to other chapters,B95-B98,category,IL
+B96,Other specified bacterial agents as the cause of diseases classified to other chapters,B95-B98,category,NV
+B96,Other specified bacterial agents as the cause of diseases classified to other chapters,B95-B98,category,AZ
+B96,Other specified bacterial agents as the cause of diseases classified to other chapters,B95-B98,category,CA
+B96,Other specified bacterial agents as the cause of diseases classified to other chapters,B95-B98,category,UT
+D31,Benign neoplasm of eye and adnexa,D10-D36,category,TX
+D31,Benign neoplasm of eye and adnexa,D10-D36,category,FL
+D31,Benign neoplasm of eye and adnexa,D10-D36,category,PA
+D31,Benign neoplasm of eye and adnexa,D10-D36,category,OK
+D31,Benign neoplasm of eye and adnexa,D10-D36,category,OR
+D31,Benign neoplasm of eye and adnexa,D10-D36,category,GA
+D31,Benign neoplasm of eye and adnexa,D10-D36,category,NY
+D31,Benign neoplasm of eye and adnexa,D10-D36,category,ND
+D31,Benign neoplasm of eye and adnexa,D10-D36,category,NE
+D31,Benign neoplasm of eye and adnexa,D10-D36,category,LA
+D31,Benign neoplasm of eye and adnexa,D10-D36,category,ID
+D31,Benign neoplasm of eye and adnexa,D10-D36,category,KS
+D31,Benign neoplasm of eye and adnexa,D10-D36,category,OH
+D31,Benign neoplasm of eye and adnexa,D10-D36,category,IN
+D31,Benign neoplasm of eye and adnexa,D10-D36,category,AL
+D31,Benign neoplasm of eye and adnexa,D10-D36,category,MI
+D31,Benign neoplasm of eye and adnexa,D10-D36,category,AZ
+D31,Benign neoplasm of eye and adnexa,D10-D36,category,IL
+D31,Benign neoplasm of eye and adnexa,D10-D36,category,NV
+D31,Benign neoplasm of eye and adnexa,D10-D36,category,IA
+D31,Benign neoplasm of eye and adnexa,D10-D36,category,CA
+D31,Benign neoplasm of eye and adnexa,D10-D36,category,UT
+D28,Benign neoplasm of other and unspecified female genital organs,D10-D36,category,TX
+D28,Benign neoplasm of other and unspecified female genital organs,D10-D36,category,OK
+D28,Benign neoplasm of other and unspecified female genital organs,D10-D36,category,PA
+D28,Benign neoplasm of other and unspecified female genital organs,D10-D36,category,GA
+D28,Benign neoplasm of other and unspecified female genital organs,D10-D36,category,NY
+D28,Benign neoplasm of other and unspecified female genital organs,D10-D36,category,KS
+D28,Benign neoplasm of other and unspecified female genital organs,D10-D36,category,IN
+D28,Benign neoplasm of other and unspecified female genital organs,D10-D36,category,LA
+D28,Benign neoplasm of other and unspecified female genital organs,D10-D36,category,ND
+D28,Benign neoplasm of other and unspecified female genital organs,D10-D36,category,NE
+D28,Benign neoplasm of other and unspecified female genital organs,D10-D36,category,OR
+D28,Benign neoplasm of other and unspecified female genital organs,D10-D36,category,ID
+D28,Benign neoplasm of other and unspecified female genital organs,D10-D36,category,MI
+D28,Benign neoplasm of other and unspecified female genital organs,D10-D36,category,AL
+D28,Benign neoplasm of other and unspecified female genital organs,D10-D36,category,IL
+D28,Benign neoplasm of other and unspecified female genital organs,D10-D36,category,OH
+D28,Benign neoplasm of other and unspecified female genital organs,D10-D36,category,NV
+D28,Benign neoplasm of other and unspecified female genital organs,D10-D36,category,FL
+D28,Benign neoplasm of other and unspecified female genital organs,D10-D36,category,IA
+D28,Benign neoplasm of other and unspecified female genital organs,D10-D36,category,AZ
+D28,Benign neoplasm of other and unspecified female genital organs,D10-D36,category,CA
+D28,Benign neoplasm of other and unspecified female genital organs,D10-D36,category,UT
+B95,Streptococcus and staphylococcus as the cause of diseases classified to other chapters,B95-B98,category,OK
+B95,Streptococcus and staphylococcus as the cause of diseases classified to other chapters,B95-B98,category,TX
+B95,Streptococcus and staphylococcus as the cause of diseases classified to other chapters,B95-B98,category,NY
+B95,Streptococcus and staphylococcus as the cause of diseases classified to other chapters,B95-B98,category,NE
+B95,Streptococcus and staphylococcus as the cause of diseases classified to other chapters,B95-B98,category,IN
+B95,Streptococcus and staphylococcus as the cause of diseases classified to other chapters,B95-B98,category,PA
+B95,Streptococcus and staphylococcus as the cause of diseases classified to other chapters,B95-B98,category,GA
+B95,Streptococcus and staphylococcus as the cause of diseases classified to other chapters,B95-B98,category,MI
+B95,Streptococcus and staphylococcus as the cause of diseases classified to other chapters,B95-B98,category,OH
+B95,Streptococcus and staphylococcus as the cause of diseases classified to other chapters,B95-B98,category,FL
+B95,Streptococcus and staphylococcus as the cause of diseases classified to other chapters,B95-B98,category,IL
+B95,Streptococcus and staphylococcus as the cause of diseases classified to other chapters,B95-B98,category,ID
+B95,Streptococcus and staphylococcus as the cause of diseases classified to other chapters,B95-B98,category,AZ
+B95,Streptococcus and staphylococcus as the cause of diseases classified to other chapters,B95-B98,category,CA
+B95,Streptococcus and staphylococcus as the cause of diseases classified to other chapters,B95-B98,category,NV
+B95,Streptococcus and staphylococcus as the cause of diseases classified to other chapters,B95-B98,category,LA
+D29,Benign neoplasm of male genital organs,D10-D36,category,TX
+D29,Benign neoplasm of male genital organs,D10-D36,category,NY
+D29,Benign neoplasm of male genital organs,D10-D36,category,PA
+D29,Benign neoplasm of male genital organs,D10-D36,category,OK
+D29,Benign neoplasm of male genital organs,D10-D36,category,NE
+D29,Benign neoplasm of male genital organs,D10-D36,category,FL
+D29,Benign neoplasm of male genital organs,D10-D36,category,IN
+D29,Benign neoplasm of male genital organs,D10-D36,category,OR
+D29,Benign neoplasm of male genital organs,D10-D36,category,ID
+D29,Benign neoplasm of male genital organs,D10-D36,category,OH
+D29,Benign neoplasm of male genital organs,D10-D36,category,MI
+D29,Benign neoplasm of male genital organs,D10-D36,category,IL
+D29,Benign neoplasm of male genital organs,D10-D36,category,GA
+D29,Benign neoplasm of male genital organs,D10-D36,category,AZ
+D29,Benign neoplasm of male genital organs,D10-D36,category,CA
+D29,Benign neoplasm of male genital organs,D10-D36,category,IA
+D29,Benign neoplasm of male genital organs,D10-D36,category,NV
+D29,Benign neoplasm of male genital organs,D10-D36,category,LA
+D29,Benign neoplasm of male genital organs,D10-D36,category,UT
+R77,Other abnormalities of plasma proteins,R70-R79,category,OK
+R77,Other abnormalities of plasma proteins,R70-R79,category,NY
+R77,Other abnormalities of plasma proteins,R70-R79,category,TX
+R77,Other abnormalities of plasma proteins,R70-R79,category,NE
+R77,Other abnormalities of plasma proteins,R70-R79,category,ID
+R77,Other abnormalities of plasma proteins,R70-R79,category,PA
+R77,Other abnormalities of plasma proteins,R70-R79,category,OR
+R77,Other abnormalities of plasma proteins,R70-R79,category,MI
+R77,Other abnormalities of plasma proteins,R70-R79,category,LA
+R77,Other abnormalities of plasma proteins,R70-R79,category,FL
+R77,Other abnormalities of plasma proteins,R70-R79,category,IA
+R77,Other abnormalities of plasma proteins,R70-R79,category,GA
+R77,Other abnormalities of plasma proteins,R70-R79,category,IN
+R77,Other abnormalities of plasma proteins,R70-R79,category,IL
+R77,Other abnormalities of plasma proteins,R70-R79,category,OH
+R77,Other abnormalities of plasma proteins,R70-R79,category,NV
+R77,Other abnormalities of plasma proteins,R70-R79,category,AZ
+R77,Other abnormalities of plasma proteins,R70-R79,category,CA
+R77,Other abnormalities of plasma proteins,R70-R79,category,ND
+R77,Other abnormalities of plasma proteins,R70-R79,category,UT
+D86,Sarcoidosis,D80-D89,category,OK
+D86,Sarcoidosis,D80-D89,category,PA
+D86,Sarcoidosis,D80-D89,category,NY
+D86,Sarcoidosis,D80-D89,category,GA
+D86,Sarcoidosis,D80-D89,category,OR
+D86,Sarcoidosis,D80-D89,category,MI
+D86,Sarcoidosis,D80-D89,category,NE
+D86,Sarcoidosis,D80-D89,category,IN
+D86,Sarcoidosis,D80-D89,category,FL
+D86,Sarcoidosis,D80-D89,category,OH
+D86,Sarcoidosis,D80-D89,category,AZ
+D86,Sarcoidosis,D80-D89,category,CA
+D86,Sarcoidosis,D80-D89,category,IL
+D86,Sarcoidosis,D80-D89,category,TX
+D86,Sarcoidosis,D80-D89,category,NV
+R82,Other abnormal findings in urine,R80-R82,category,TX
+R82,Other abnormal findings in urine,R80-R82,category,PA
+R82,Other abnormal findings in urine,R80-R82,category,OK
+R82,Other abnormal findings in urine,R80-R82,category,ND
+R82,Other abnormal findings in urine,R80-R82,category,NY
+R82,Other abnormal findings in urine,R80-R82,category,GA
+R82,Other abnormal findings in urine,R80-R82,category,KS
+R82,Other abnormal findings in urine,R80-R82,category,ID
+R82,Other abnormal findings in urine,R80-R82,category,FL
+R82,Other abnormal findings in urine,R80-R82,category,MI
+R82,Other abnormal findings in urine,R80-R82,category,CA
+R82,Other abnormal findings in urine,R80-R82,category,IN
+R82,Other abnormal findings in urine,R80-R82,category,NE
+R82,Other abnormal findings in urine,R80-R82,category,AL
+R82,Other abnormal findings in urine,R80-R82,category,IA
+R82,Other abnormal findings in urine,R80-R82,category,OR
+R82,Other abnormal findings in urine,R80-R82,category,OH
+R82,Other abnormal findings in urine,R80-R82,category,NV
+R82,Other abnormal findings in urine,R80-R82,category,AZ
+R82,Other abnormal findings in urine,R80-R82,category,LA
+R82,Other abnormal findings in urine,R80-R82,category,IL
+R82,Other abnormal findings in urine,R80-R82,category,UT
+J03,Acute tonsillitis,J00-J06,category,TX
+J03,Acute tonsillitis,J00-J06,category,NY
+J03,Acute tonsillitis,J00-J06,category,GA
+J03,Acute tonsillitis,J00-J06,category,ID
+J03,Acute tonsillitis,J00-J06,category,FL
+J03,Acute tonsillitis,J00-J06,category,PA
+J03,Acute tonsillitis,J00-J06,category,MI
+J03,Acute tonsillitis,J00-J06,category,OK
+J03,Acute tonsillitis,J00-J06,category,IN
+J03,Acute tonsillitis,J00-J06,category,IL
+J03,Acute tonsillitis,J00-J06,category,LA
+J03,Acute tonsillitis,J00-J06,category,NV
+J03,Acute tonsillitis,J00-J06,category,IA
+J03,Acute tonsillitis,J00-J06,category,NE
+J03,Acute tonsillitis,J00-J06,category,OH
+J03,Acute tonsillitis,J00-J06,category,AZ
+J03,Acute tonsillitis,J00-J06,category,CA
+J03,Acute tonsillitis,J00-J06,category,UT
+L11,Other acantholytic disorders,L10-L14,category,OK
+L11,Other acantholytic disorders,L10-L14,category,TX
+L11,Other acantholytic disorders,L10-L14,category,NY
+L11,Other acantholytic disorders,L10-L14,category,LA
+L11,Other acantholytic disorders,L10-L14,category,ID
+L11,Other acantholytic disorders,L10-L14,category,PA
+L11,Other acantholytic disorders,L10-L14,category,NE
+L11,Other acantholytic disorders,L10-L14,category,ND
+L11,Other acantholytic disorders,L10-L14,category,GA
+L11,Other acantholytic disorders,L10-L14,category,OR
+L11,Other acantholytic disorders,L10-L14,category,FL
+L11,Other acantholytic disorders,L10-L14,category,MI
+L11,Other acantholytic disorders,L10-L14,category,OH
+L11,Other acantholytic disorders,L10-L14,category,IL
+L11,Other acantholytic disorders,L10-L14,category,IN
+L11,Other acantholytic disorders,L10-L14,category,NV
+L11,Other acantholytic disorders,L10-L14,category,CA
+L11,Other acantholytic disorders,L10-L14,category,AZ
+L11,Other acantholytic disorders,L10-L14,category,UT
+L11,Other acantholytic disorders,L10-L14,category,IA
+D26,Other benign neoplasms of uterus,D10-D36,category,OK
+D26,Other benign neoplasms of uterus,D10-D36,category,PA
+D26,Other benign neoplasms of uterus,D10-D36,category,NY
+D26,Other benign neoplasms of uterus,D10-D36,category,ID
+D26,Other benign neoplasms of uterus,D10-D36,category,GA
+D26,Other benign neoplasms of uterus,D10-D36,category,OR
+D26,Other benign neoplasms of uterus,D10-D36,category,ND
+D26,Other benign neoplasms of uterus,D10-D36,category,OH
+D26,Other benign neoplasms of uterus,D10-D36,category,TX
+D26,Other benign neoplasms of uterus,D10-D36,category,NE
+D26,Other benign neoplasms of uterus,D10-D36,category,MI
+D26,Other benign neoplasms of uterus,D10-D36,category,IN
+D26,Other benign neoplasms of uterus,D10-D36,category,IA
+D26,Other benign neoplasms of uterus,D10-D36,category,LA
+D26,Other benign neoplasms of uterus,D10-D36,category,IL
+D26,Other benign neoplasms of uterus,D10-D36,category,FL
+D26,Other benign neoplasms of uterus,D10-D36,category,NV
+D26,Other benign neoplasms of uterus,D10-D36,category,AZ
+D26,Other benign neoplasms of uterus,D10-D36,category,CA
+D26,Other benign neoplasms of uterus,D10-D36,category,UT
+I01,Rheumatic fever with heart involvement,I00-I02,category,TX
+I01,Rheumatic fever with heart involvement,I00-I02,category,OK
+I01,Rheumatic fever with heart involvement,I00-I02,category,PA
+I01,Rheumatic fever with heart involvement,I00-I02,category,GA
+I01,Rheumatic fever with heart involvement,I00-I02,category,NY
+I01,Rheumatic fever with heart involvement,I00-I02,category,ND
+I01,Rheumatic fever with heart involvement,I00-I02,category,IN
+I01,Rheumatic fever with heart involvement,I00-I02,category,LA
+I01,Rheumatic fever with heart involvement,I00-I02,category,KS
+I01,Rheumatic fever with heart involvement,I00-I02,category,ID
+I01,Rheumatic fever with heart involvement,I00-I02,category,OR
+I01,Rheumatic fever with heart involvement,I00-I02,category,MI
+I01,Rheumatic fever with heart involvement,I00-I02,category,OH
+I01,Rheumatic fever with heart involvement,I00-I02,category,NE
+I01,Rheumatic fever with heart involvement,I00-I02,category,IA
+I01,Rheumatic fever with heart involvement,I00-I02,category,NV
+I01,Rheumatic fever with heart involvement,I00-I02,category,FL
+I01,Rheumatic fever with heart involvement,I00-I02,category,IL
+I01,Rheumatic fever with heart involvement,I00-I02,category,AL
+I01,Rheumatic fever with heart involvement,I00-I02,category,AZ
+I01,Rheumatic fever with heart involvement,I00-I02,category,CA
+I01,Rheumatic fever with heart involvement,I00-I02,category,UT
+J02,Acute pharyngitis,J00-J06,category,OK
+J02,Acute pharyngitis,J00-J06,category,PA
+J02,Acute pharyngitis,J00-J06,category,NY
+J02,Acute pharyngitis,J00-J06,category,TX
+J02,Acute pharyngitis,J00-J06,category,LA
+J02,Acute pharyngitis,J00-J06,category,GA
+J02,Acute pharyngitis,J00-J06,category,KS
+J02,Acute pharyngitis,J00-J06,category,ND
+J02,Acute pharyngitis,J00-J06,category,MI
+J02,Acute pharyngitis,J00-J06,category,ID
+J02,Acute pharyngitis,J00-J06,category,OR
+J02,Acute pharyngitis,J00-J06,category,NE
+J02,Acute pharyngitis,J00-J06,category,IN
+J02,Acute pharyngitis,J00-J06,category,IL
+J02,Acute pharyngitis,J00-J06,category,OH
+J02,Acute pharyngitis,J00-J06,category,AL
+J02,Acute pharyngitis,J00-J06,category,NV
+J02,Acute pharyngitis,J00-J06,category,IA
+J02,Acute pharyngitis,J00-J06,category,FL
+J02,Acute pharyngitis,J00-J06,category,AZ
+J02,Acute pharyngitis,J00-J06,category,CA
+J02,Acute pharyngitis,J00-J06,category,UT
+I60,Subarachnoid haemorrhage,I60-I69,category,OK
+I60,Subarachnoid haemorrhage,I60-I69,category,ND
+I60,Subarachnoid haemorrhage,I60-I69,category,PA
+I60,Subarachnoid haemorrhage,I60-I69,category,NY
+I60,Subarachnoid haemorrhage,I60-I69,category,FL
+I60,Subarachnoid haemorrhage,I60-I69,category,ID
+I60,Subarachnoid haemorrhage,I60-I69,category,NE
+I60,Subarachnoid haemorrhage,I60-I69,category,IA
+I60,Subarachnoid haemorrhage,I60-I69,category,GA
+I60,Subarachnoid haemorrhage,I60-I69,category,IL
+I60,Subarachnoid haemorrhage,I60-I69,category,OR
+I60,Subarachnoid haemorrhage,I60-I69,category,IN
+I60,Subarachnoid haemorrhage,I60-I69,category,MI
+I60,Subarachnoid haemorrhage,I60-I69,category,OH
+I60,Subarachnoid haemorrhage,I60-I69,category,NV
+I60,Subarachnoid haemorrhage,I60-I69,category,AZ
+I60,Subarachnoid haemorrhage,I60-I69,category,CA
+I60,Subarachnoid haemorrhage,I60-I69,category,TX
+I60,Subarachnoid haemorrhage,I60-I69,category,UT
+R79,Other abnormal findings of blood chemistry,R70-R79,category,TX
+R79,Other abnormal findings of blood chemistry,R70-R79,category,OK
+R79,Other abnormal findings of blood chemistry,R70-R79,category,ND
+R79,Other abnormal findings of blood chemistry,R70-R79,category,PA
+R79,Other abnormal findings of blood chemistry,R70-R79,category,KS
+R79,Other abnormal findings of blood chemistry,R70-R79,category,GA
+R79,Other abnormal findings of blood chemistry,R70-R79,category,ID
+R79,Other abnormal findings of blood chemistry,R70-R79,category,MI
+R79,Other abnormal findings of blood chemistry,R70-R79,category,NY
+R79,Other abnormal findings of blood chemistry,R70-R79,category,OH
+R79,Other abnormal findings of blood chemistry,R70-R79,category,OR
+R79,Other abnormal findings of blood chemistry,R70-R79,category,IN
+R79,Other abnormal findings of blood chemistry,R70-R79,category,NE
+R79,Other abnormal findings of blood chemistry,R70-R79,category,IL
+R79,Other abnormal findings of blood chemistry,R70-R79,category,FL
+R79,Other abnormal findings of blood chemistry,R70-R79,category,IA
+R79,Other abnormal findings of blood chemistry,R70-R79,category,LA
+R79,Other abnormal findings of blood chemistry,R70-R79,category,AZ
+R79,Other abnormal findings of blood chemistry,R70-R79,category,NV
+R79,Other abnormal findings of blood chemistry,R70-R79,category,CA
+R79,Other abnormal findings of blood chemistry,R70-R79,category,UT
+F50,Eating disorders,F50-F59,category,NY
+F50,Eating disorders,F50-F59,category,OK
+F50,Eating disorders,F50-F59,category,PA
+F50,Eating disorders,F50-F59,category,ND
+F50,Eating disorders,F50-F59,category,ID
+F50,Eating disorders,F50-F59,category,OR
+F50,Eating disorders,F50-F59,category,NE
+F50,Eating disorders,F50-F59,category,LA
+F50,Eating disorders,F50-F59,category,IN
+F50,Eating disorders,F50-F59,category,MI
+F50,Eating disorders,F50-F59,category,TX
+F50,Eating disorders,F50-F59,category,IL
+F50,Eating disorders,F50-F59,category,GA
+F50,Eating disorders,F50-F59,category,FL
+F50,Eating disorders,F50-F59,category,IA
+F50,Eating disorders,F50-F59,category,NV
+F50,Eating disorders,F50-F59,category,OH
+F50,Eating disorders,F50-F59,category,AZ
+F50,Eating disorders,F50-F59,category,CA
+F50,Eating disorders,F50-F59,category,UT
+I69,Sequelae of cerebrovascular disease,I60-I69,category,PA
+I69,Sequelae of cerebrovascular disease,I60-I69,category,NY
+I69,Sequelae of cerebrovascular disease,I60-I69,category,TX
+I69,Sequelae of cerebrovascular disease,I60-I69,category,OH
+I69,Sequelae of cerebrovascular disease,I60-I69,category,OK
+I69,Sequelae of cerebrovascular disease,I60-I69,category,MI
+I69,Sequelae of cerebrovascular disease,I60-I69,category,NE
+I69,Sequelae of cerebrovascular disease,I60-I69,category,IN
+I69,Sequelae of cerebrovascular disease,I60-I69,category,ID
+I69,Sequelae of cerebrovascular disease,I60-I69,category,IL
+I69,Sequelae of cerebrovascular disease,I60-I69,category,FL
+I69,Sequelae of cerebrovascular disease,I60-I69,category,GA
+I69,Sequelae of cerebrovascular disease,I60-I69,category,CA
+I69,Sequelae of cerebrovascular disease,I60-I69,category,IA
+I69,Sequelae of cerebrovascular disease,I60-I69,category,AZ
+I69,Sequelae of cerebrovascular disease,I60-I69,category,NV
+F90,Hyperkinetic disorders,F90-F98,category,NY
+F90,Hyperkinetic disorders,F90-F98,category,PA
+F90,Hyperkinetic disorders,F90-F98,category,OK
+F90,Hyperkinetic disorders,F90-F98,category,ID
+F90,Hyperkinetic disorders,F90-F98,category,TX
+F90,Hyperkinetic disorders,F90-F98,category,GA
+F90,Hyperkinetic disorders,F90-F98,category,ND
+F90,Hyperkinetic disorders,F90-F98,category,NE
+F90,Hyperkinetic disorders,F90-F98,category,OR
+F90,Hyperkinetic disorders,F90-F98,category,IN
+F90,Hyperkinetic disorders,F90-F98,category,MI
+F90,Hyperkinetic disorders,F90-F98,category,LA
+F90,Hyperkinetic disorders,F90-F98,category,FL
+F90,Hyperkinetic disorders,F90-F98,category,IA
+F90,Hyperkinetic disorders,F90-F98,category,OH
+F90,Hyperkinetic disorders,F90-F98,category,AZ
+F90,Hyperkinetic disorders,F90-F98,category,IL
+F90,Hyperkinetic disorders,F90-F98,category,NV
+F90,Hyperkinetic disorders,F90-F98,category,CA
+F90,Hyperkinetic disorders,F90-F98,category,UT
+Y07,Other maltreatment,X85-Y09,category,LA
+Y07,Other maltreatment,X85-Y09,category,OK
+Y07,Other maltreatment,X85-Y09,category,PA
+Y07,Other maltreatment,X85-Y09,category,GA
+Y07,Other maltreatment,X85-Y09,category,TX
+Y07,Other maltreatment,X85-Y09,category,KS
+Y07,Other maltreatment,X85-Y09,category,ND
+Y07,Other maltreatment,X85-Y09,category,NY
+Y07,Other maltreatment,X85-Y09,category,ID
+Y07,Other maltreatment,X85-Y09,category,NE
+Y07,Other maltreatment,X85-Y09,category,MI
+Y07,Other maltreatment,X85-Y09,category,IN
+Y07,Other maltreatment,X85-Y09,category,OR
+Y07,Other maltreatment,X85-Y09,category,AL
+Y07,Other maltreatment,X85-Y09,category,FL
+Y07,Other maltreatment,X85-Y09,category,CA
+Y07,Other maltreatment,X85-Y09,category,AZ
+Y07,Other maltreatment,X85-Y09,category,OH
+Y07,Other maltreatment,X85-Y09,category,IL
+Y07,Other maltreatment,X85-Y09,category,IA
+Y07,Other maltreatment,X85-Y09,category,NV
+Y07,Other maltreatment,X85-Y09,category,UT
+I66,"Occlusion and stenosis of cerebral arteries, not resulting in cerebral infarction",I60-I69,category,OK
+I66,"Occlusion and stenosis of cerebral arteries, not resulting in cerebral infarction",I60-I69,category,PA
+I66,"Occlusion and stenosis of cerebral arteries, not resulting in cerebral infarction",I60-I69,category,NY
+I66,"Occlusion and stenosis of cerebral arteries, not resulting in cerebral infarction",I60-I69,category,ID
+I66,"Occlusion and stenosis of cerebral arteries, not resulting in cerebral infarction",I60-I69,category,MI
+I66,"Occlusion and stenosis of cerebral arteries, not resulting in cerebral infarction",I60-I69,category,NE
+I66,"Occlusion and stenosis of cerebral arteries, not resulting in cerebral infarction",I60-I69,category,IN
+I66,"Occlusion and stenosis of cerebral arteries, not resulting in cerebral infarction",I60-I69,category,OR
+I66,"Occlusion and stenosis of cerebral arteries, not resulting in cerebral infarction",I60-I69,category,OH
+I66,"Occlusion and stenosis of cerebral arteries, not resulting in cerebral infarction",I60-I69,category,GA
+I66,"Occlusion and stenosis of cerebral arteries, not resulting in cerebral infarction",I60-I69,category,IL
+I66,"Occlusion and stenosis of cerebral arteries, not resulting in cerebral infarction",I60-I69,category,FL
+I66,"Occlusion and stenosis of cerebral arteries, not resulting in cerebral infarction",I60-I69,category,TX
+I66,"Occlusion and stenosis of cerebral arteries, not resulting in cerebral infarction",I60-I69,category,CA
+I66,"Occlusion and stenosis of cerebral arteries, not resulting in cerebral infarction",I60-I69,category,AZ
+I66,"Occlusion and stenosis of cerebral arteries, not resulting in cerebral infarction",I60-I69,category,LA
+I66,"Occlusion and stenosis of cerebral arteries, not resulting in cerebral infarction",I60-I69,category,NV
+I66,"Occlusion and stenosis of cerebral arteries, not resulting in cerebral infarction",I60-I69,category,IA
+I66,"Occlusion and stenosis of cerebral arteries, not resulting in cerebral infarction",I60-I69,category,ND
+I66,"Occlusion and stenosis of cerebral arteries, not resulting in cerebral infarction",I60-I69,category,UT
+G82,Paraplegia and tetraplegia,G80-G83,category,TX
+G82,Paraplegia and tetraplegia,G80-G83,category,ND
+G82,Paraplegia and tetraplegia,G80-G83,category,PA
+G82,Paraplegia and tetraplegia,G80-G83,category,OK
+G82,Paraplegia and tetraplegia,G80-G83,category,ID
+G82,Paraplegia and tetraplegia,G80-G83,category,NY
+G82,Paraplegia and tetraplegia,G80-G83,category,KS
+G82,Paraplegia and tetraplegia,G80-G83,category,LA
+G82,Paraplegia and tetraplegia,G80-G83,category,IN
+G82,Paraplegia and tetraplegia,G80-G83,category,GA
+G82,Paraplegia and tetraplegia,G80-G83,category,NV
+G82,Paraplegia and tetraplegia,G80-G83,category,MI
+G82,Paraplegia and tetraplegia,G80-G83,category,NE
+G82,Paraplegia and tetraplegia,G80-G83,category,AZ
+G82,Paraplegia and tetraplegia,G80-G83,category,OR
+G82,Paraplegia and tetraplegia,G80-G83,category,FL
+G82,Paraplegia and tetraplegia,G80-G83,category,IL
+G82,Paraplegia and tetraplegia,G80-G83,category,OH
+G82,Paraplegia and tetraplegia,G80-G83,category,IA
+G82,Paraplegia and tetraplegia,G80-G83,category,CA
+G82,Paraplegia and tetraplegia,G80-G83,category,UT
+I63,Cerebral infarction,I60-I69,category,NY
+I63,Cerebral infarction,I60-I69,category,OK
+I63,Cerebral infarction,I60-I69,category,PA
+I63,Cerebral infarction,I60-I69,category,IN
+I63,Cerebral infarction,I60-I69,category,OH
+I63,Cerebral infarction,I60-I69,category,GA
+I63,Cerebral infarction,I60-I69,category,MI
+I63,Cerebral infarction,I60-I69,category,AZ
+I63,Cerebral infarction,I60-I69,category,IL
+I63,Cerebral infarction,I60-I69,category,FL
+I63,Cerebral infarction,I60-I69,category,ID
+I63,Cerebral infarction,I60-I69,category,NE
+I63,Cerebral infarction,I60-I69,category,TX
+I63,Cerebral infarction,I60-I69,category,IA
+I63,Cerebral infarction,I60-I69,category,NV
+I63,Cerebral infarction,I60-I69,category,CA
+J01,Acute sinusitis,J00-J06,category,PA
+J01,Acute sinusitis,J00-J06,category,OK
+J01,Acute sinusitis,J00-J06,category,GA
+J01,Acute sinusitis,J00-J06,category,NY
+J01,Acute sinusitis,J00-J06,category,KS
+J01,Acute sinusitis,J00-J06,category,ND
+J01,Acute sinusitis,J00-J06,category,TX
+J01,Acute sinusitis,J00-J06,category,ID
+J01,Acute sinusitis,J00-J06,category,MI
+J01,Acute sinusitis,J00-J06,category,NE
+J01,Acute sinusitis,J00-J06,category,LA
+J01,Acute sinusitis,J00-J06,category,OR
+J01,Acute sinusitis,J00-J06,category,IN
+J01,Acute sinusitis,J00-J06,category,OH
+J01,Acute sinusitis,J00-J06,category,FL
+J01,Acute sinusitis,J00-J06,category,IL
+J01,Acute sinusitis,J00-J06,category,CA
+J01,Acute sinusitis,J00-J06,category,AZ
+J01,Acute sinusitis,J00-J06,category,AL
+J01,Acute sinusitis,J00-J06,category,IA
+J01,Acute sinusitis,J00-J06,category,NV
+J01,Acute sinusitis,J00-J06,category,UT
+I67,Other cerebrovascular diseases,I60-I69,category,NY
+I67,Other cerebrovascular diseases,I60-I69,category,OK
+I67,Other cerebrovascular diseases,I60-I69,category,ID
+I67,Other cerebrovascular diseases,I60-I69,category,PA
+I67,Other cerebrovascular diseases,I60-I69,category,OH
+I67,Other cerebrovascular diseases,I60-I69,category,IN
+I67,Other cerebrovascular diseases,I60-I69,category,MI
+I67,Other cerebrovascular diseases,I60-I69,category,GA
+I67,Other cerebrovascular diseases,I60-I69,category,TX
+I67,Other cerebrovascular diseases,I60-I69,category,LA
+I67,Other cerebrovascular diseases,I60-I69,category,NV
+I67,Other cerebrovascular diseases,I60-I69,category,NE
+I67,Other cerebrovascular diseases,I60-I69,category,IL
+I67,Other cerebrovascular diseases,I60-I69,category,FL
+I67,Other cerebrovascular diseases,I60-I69,category,AZ
+I67,Other cerebrovascular diseases,I60-I69,category,IA
+I67,Other cerebrovascular diseases,I60-I69,category,CA
+I67,Other cerebrovascular diseases,I60-I69,category,UT
+G80,Cerebral palsy,G80-G83,category,PA
+G80,Cerebral palsy,G80-G83,category,NY
+G80,Cerebral palsy,G80-G83,category,OK
+G80,Cerebral palsy,G80-G83,category,FL
+G80,Cerebral palsy,G80-G83,category,MI
+G80,Cerebral palsy,G80-G83,category,ND
+G80,Cerebral palsy,G80-G83,category,ID
+G80,Cerebral palsy,G80-G83,category,OR
+G80,Cerebral palsy,G80-G83,category,TX
+G80,Cerebral palsy,G80-G83,category,OH
+G80,Cerebral palsy,G80-G83,category,IN
+G80,Cerebral palsy,G80-G83,category,NE
+G80,Cerebral palsy,G80-G83,category,GA
+G80,Cerebral palsy,G80-G83,category,CA
+G80,Cerebral palsy,G80-G83,category,LA
+G80,Cerebral palsy,G80-G83,category,IL
+G80,Cerebral palsy,G80-G83,category,NV
+G80,Cerebral palsy,G80-G83,category,AZ
+D19,Benign neoplasm of mesothelial tissue,D10-D36,category,OK
+D19,Benign neoplasm of mesothelial tissue,D10-D36,category,PA
+D19,Benign neoplasm of mesothelial tissue,D10-D36,category,ID
+D19,Benign neoplasm of mesothelial tissue,D10-D36,category,MI
+D19,Benign neoplasm of mesothelial tissue,D10-D36,category,OR
+D19,Benign neoplasm of mesothelial tissue,D10-D36,category,IN
+D19,Benign neoplasm of mesothelial tissue,D10-D36,category,GA
+D19,Benign neoplasm of mesothelial tissue,D10-D36,category,OH
+D19,Benign neoplasm of mesothelial tissue,D10-D36,category,NE
+D19,Benign neoplasm of mesothelial tissue,D10-D36,category,IL
+D19,Benign neoplasm of mesothelial tissue,D10-D36,category,FL
+D19,Benign neoplasm of mesothelial tissue,D10-D36,category,TX
+D19,Benign neoplasm of mesothelial tissue,D10-D36,category,AZ
+D19,Benign neoplasm of mesothelial tissue,D10-D36,category,CA
+D19,Benign neoplasm of mesothelial tissue,D10-D36,category,NY
+D19,Benign neoplasm of mesothelial tissue,D10-D36,category,NV
+P11,Other birth injuries to central nervous system,P10-P15,category,OK
+P11,Other birth injuries to central nervous system,P10-P15,category,PA
+P11,Other birth injuries to central nervous system,P10-P15,category,GA
+P11,Other birth injuries to central nervous system,P10-P15,category,LA
+P11,Other birth injuries to central nervous system,P10-P15,category,KS
+P11,Other birth injuries to central nervous system,P10-P15,category,TX
+P11,Other birth injuries to central nervous system,P10-P15,category,NY
+P11,Other birth injuries to central nervous system,P10-P15,category,ID
+P11,Other birth injuries to central nervous system,P10-P15,category,ND
+P11,Other birth injuries to central nervous system,P10-P15,category,NE
+P11,Other birth injuries to central nervous system,P10-P15,category,IA
+P11,Other birth injuries to central nervous system,P10-P15,category,OR
+P11,Other birth injuries to central nervous system,P10-P15,category,MI
+P11,Other birth injuries to central nervous system,P10-P15,category,FL
+P11,Other birth injuries to central nervous system,P10-P15,category,OH
+P11,Other birth injuries to central nervous system,P10-P15,category,IN
+P11,Other birth injuries to central nervous system,P10-P15,category,NV
+P11,Other birth injuries to central nervous system,P10-P15,category,CA
+P11,Other birth injuries to central nervous system,P10-P15,category,IL
+P11,Other birth injuries to central nervous system,P10-P15,category,AZ
+P11,Other birth injuries to central nervous system,P10-P15,category,UT
+D16,Benign neoplasm of bone and articular cartilage,D10-D36,category,OH
+D16,Benign neoplasm of bone and articular cartilage,D10-D36,category,TX
+D16,Benign neoplasm of bone and articular cartilage,D10-D36,category,PA
+D16,Benign neoplasm of bone and articular cartilage,D10-D36,category,ID
+D16,Benign neoplasm of bone and articular cartilage,D10-D36,category,OK
+D16,Benign neoplasm of bone and articular cartilage,D10-D36,category,OR
+D16,Benign neoplasm of bone and articular cartilage,D10-D36,category,IA
+D16,Benign neoplasm of bone and articular cartilage,D10-D36,category,MI
+D16,Benign neoplasm of bone and articular cartilage,D10-D36,category,LA
+D16,Benign neoplasm of bone and articular cartilage,D10-D36,category,IL
+D16,Benign neoplasm of bone and articular cartilage,D10-D36,category,FL
+D16,Benign neoplasm of bone and articular cartilage,D10-D36,category,NE
+D16,Benign neoplasm of bone and articular cartilage,D10-D36,category,GA
+D16,Benign neoplasm of bone and articular cartilage,D10-D36,category,NV
+D16,Benign neoplasm of bone and articular cartilage,D10-D36,category,AZ
+D16,Benign neoplasm of bone and articular cartilage,D10-D36,category,IN
+D16,Benign neoplasm of bone and articular cartilage,D10-D36,category,NY
+D16,Benign neoplasm of bone and articular cartilage,D10-D36,category,CA
+D16,Benign neoplasm of bone and articular cartilage,D10-D36,category,UT
+F53,"Mental and behavioural disorders associated with the puerperium, not elsewhere classified",F50-F59,category,TX
+F53,"Mental and behavioural disorders associated with the puerperium, not elsewhere classified",F50-F59,category,OK
+F53,"Mental and behavioural disorders associated with the puerperium, not elsewhere classified",F50-F59,category,GA
+F53,"Mental and behavioural disorders associated with the puerperium, not elsewhere classified",F50-F59,category,PA
+F53,"Mental and behavioural disorders associated with the puerperium, not elsewhere classified",F50-F59,category,NE
+F53,"Mental and behavioural disorders associated with the puerperium, not elsewhere classified",F50-F59,category,KS
+F53,"Mental and behavioural disorders associated with the puerperium, not elsewhere classified",F50-F59,category,ND
+F53,"Mental and behavioural disorders associated with the puerperium, not elsewhere classified",F50-F59,category,OR
+F53,"Mental and behavioural disorders associated with the puerperium, not elsewhere classified",F50-F59,category,NY
+F53,"Mental and behavioural disorders associated with the puerperium, not elsewhere classified",F50-F59,category,ID
+F53,"Mental and behavioural disorders associated with the puerperium, not elsewhere classified",F50-F59,category,IN
+F53,"Mental and behavioural disorders associated with the puerperium, not elsewhere classified",F50-F59,category,MI
+F53,"Mental and behavioural disorders associated with the puerperium, not elsewhere classified",F50-F59,category,LA
+F53,"Mental and behavioural disorders associated with the puerperium, not elsewhere classified",F50-F59,category,IA
+F53,"Mental and behavioural disorders associated with the puerperium, not elsewhere classified",F50-F59,category,FL
+F53,"Mental and behavioural disorders associated with the puerperium, not elsewhere classified",F50-F59,category,OH
+F53,"Mental and behavioural disorders associated with the puerperium, not elsewhere classified",F50-F59,category,AZ
+F53,"Mental and behavioural disorders associated with the puerperium, not elsewhere classified",F50-F59,category,IL
+F53,"Mental and behavioural disorders associated with the puerperium, not elsewhere classified",F50-F59,category,NV
+F53,"Mental and behavioural disorders associated with the puerperium, not elsewhere classified",F50-F59,category,CA
+F53,"Mental and behavioural disorders associated with the puerperium, not elsewhere classified",F50-F59,category,UT
+B97,Viral agents as the cause of diseases classified to other chapters,B95-B98,category,TX
+B97,Viral agents as the cause of diseases classified to other chapters,B95-B98,category,OK
+B97,Viral agents as the cause of diseases classified to other chapters,B95-B98,category,ID
+B97,Viral agents as the cause of diseases classified to other chapters,B95-B98,category,NY
+B97,Viral agents as the cause of diseases classified to other chapters,B95-B98,category,KS
+B97,Viral agents as the cause of diseases classified to other chapters,B95-B98,category,PA
+B97,Viral agents as the cause of diseases classified to other chapters,B95-B98,category,ND
+B97,Viral agents as the cause of diseases classified to other chapters,B95-B98,category,NE
+B97,Viral agents as the cause of diseases classified to other chapters,B95-B98,category,MI
+B97,Viral agents as the cause of diseases classified to other chapters,B95-B98,category,IN
+B97,Viral agents as the cause of diseases classified to other chapters,B95-B98,category,FL
+B97,Viral agents as the cause of diseases classified to other chapters,B95-B98,category,GA
+B97,Viral agents as the cause of diseases classified to other chapters,B95-B98,category,NV
+B97,Viral agents as the cause of diseases classified to other chapters,B95-B98,category,IA
+B97,Viral agents as the cause of diseases classified to other chapters,B95-B98,category,LA
+B97,Viral agents as the cause of diseases classified to other chapters,B95-B98,category,OR
+B97,Viral agents as the cause of diseases classified to other chapters,B95-B98,category,AZ
+B97,Viral agents as the cause of diseases classified to other chapters,B95-B98,category,OH
+B97,Viral agents as the cause of diseases classified to other chapters,B95-B98,category,IL
+B97,Viral agents as the cause of diseases classified to other chapters,B95-B98,category,CA
+B97,Viral agents as the cause of diseases classified to other chapters,B95-B98,category,UT
+F52,"Sexual dysfunction, not caused by organic disorder or disease",F50-F59,category,PA
+F52,"Sexual dysfunction, not caused by organic disorder or disease",F50-F59,category,NY
+F52,"Sexual dysfunction, not caused by organic disorder or disease",F50-F59,category,OK
+F52,"Sexual dysfunction, not caused by organic disorder or disease",F50-F59,category,NE
+F52,"Sexual dysfunction, not caused by organic disorder or disease",F50-F59,category,OR
+F52,"Sexual dysfunction, not caused by organic disorder or disease",F50-F59,category,ID
+F52,"Sexual dysfunction, not caused by organic disorder or disease",F50-F59,category,MI
+F52,"Sexual dysfunction, not caused by organic disorder or disease",F50-F59,category,GA
+F52,"Sexual dysfunction, not caused by organic disorder or disease",F50-F59,category,IN
+F52,"Sexual dysfunction, not caused by organic disorder or disease",F50-F59,category,TX
+F52,"Sexual dysfunction, not caused by organic disorder or disease",F50-F59,category,OH
+F52,"Sexual dysfunction, not caused by organic disorder or disease",F50-F59,category,NV
+F52,"Sexual dysfunction, not caused by organic disorder or disease",F50-F59,category,FL
+F52,"Sexual dysfunction, not caused by organic disorder or disease",F50-F59,category,IL
+F52,"Sexual dysfunction, not caused by organic disorder or disease",F50-F59,category,LA
+F52,"Sexual dysfunction, not caused by organic disorder or disease",F50-F59,category,CA
+F52,"Sexual dysfunction, not caused by organic disorder or disease",F50-F59,category,AZ
+F52,"Sexual dysfunction, not caused by organic disorder or disease",F50-F59,category,ND
+F52,"Sexual dysfunction, not caused by organic disorder or disease",F50-F59,category,UT
+F52,"Sexual dysfunction, not caused by organic disorder or disease",F50-F59,category,IA
+D13,Benign neoplasm of other and ill-defined parts of digestive system,D10-D36,category,PA
+D13,Benign neoplasm of other and ill-defined parts of digestive system,D10-D36,category,OK
+D13,Benign neoplasm of other and ill-defined parts of digestive system,D10-D36,category,LA
+D13,Benign neoplasm of other and ill-defined parts of digestive system,D10-D36,category,GA
+D13,Benign neoplasm of other and ill-defined parts of digestive system,D10-D36,category,IL
+D13,Benign neoplasm of other and ill-defined parts of digestive system,D10-D36,category,ID
+D13,Benign neoplasm of other and ill-defined parts of digestive system,D10-D36,category,NY
+D13,Benign neoplasm of other and ill-defined parts of digestive system,D10-D36,category,NE
+D13,Benign neoplasm of other and ill-defined parts of digestive system,D10-D36,category,MI
+D13,Benign neoplasm of other and ill-defined parts of digestive system,D10-D36,category,IN
+D13,Benign neoplasm of other and ill-defined parts of digestive system,D10-D36,category,TX
+D13,Benign neoplasm of other and ill-defined parts of digestive system,D10-D36,category,FL
+D13,Benign neoplasm of other and ill-defined parts of digestive system,D10-D36,category,OR
+D13,Benign neoplasm of other and ill-defined parts of digestive system,D10-D36,category,OH
+D13,Benign neoplasm of other and ill-defined parts of digestive system,D10-D36,category,AZ
+D13,Benign neoplasm of other and ill-defined parts of digestive system,D10-D36,category,NV
+D13,Benign neoplasm of other and ill-defined parts of digestive system,D10-D36,category,CA
+D13,Benign neoplasm of other and ill-defined parts of digestive system,D10-D36,category,UT
+D17,Benign lipomatous neoplasm,D10-D36,category,PA
+D17,Benign lipomatous neoplasm,D10-D36,category,OK
+D17,Benign lipomatous neoplasm,D10-D36,category,ND
+D17,Benign lipomatous neoplasm,D10-D36,category,NY
+D17,Benign lipomatous neoplasm,D10-D36,category,MI
+D17,Benign lipomatous neoplasm,D10-D36,category,GA
+D17,Benign lipomatous neoplasm,D10-D36,category,KS
+D17,Benign lipomatous neoplasm,D10-D36,category,TX
+D17,Benign lipomatous neoplasm,D10-D36,category,OR
+D17,Benign lipomatous neoplasm,D10-D36,category,NE
+D17,Benign lipomatous neoplasm,D10-D36,category,FL
+D17,Benign lipomatous neoplasm,D10-D36,category,IN
+D17,Benign lipomatous neoplasm,D10-D36,category,NV
+D17,Benign lipomatous neoplasm,D10-D36,category,ID
+D17,Benign lipomatous neoplasm,D10-D36,category,IL
+D17,Benign lipomatous neoplasm,D10-D36,category,OH
+D17,Benign lipomatous neoplasm,D10-D36,category,IA
+D17,Benign lipomatous neoplasm,D10-D36,category,LA
+D17,Benign lipomatous neoplasm,D10-D36,category,AZ
+D17,Benign lipomatous neoplasm,D10-D36,category,CA
+D17,Benign lipomatous neoplasm,D10-D36,category,UT
+R73,Elevated blood glucose level,R70-R79,category,NY
+R73,Elevated blood glucose level,R70-R79,category,KS
+R73,Elevated blood glucose level,R70-R79,category,PA
+R73,Elevated blood glucose level,R70-R79,category,MI
+R73,Elevated blood glucose level,R70-R79,category,OH
+R73,Elevated blood glucose level,R70-R79,category,ID
+R73,Elevated blood glucose level,R70-R79,category,OK
+R73,Elevated blood glucose level,R70-R79,category,IN
+R73,Elevated blood glucose level,R70-R79,category,LA
+R73,Elevated blood glucose level,R70-R79,category,NE
+R73,Elevated blood glucose level,R70-R79,category,GA
+R73,Elevated blood glucose level,R70-R79,category,TX
+R73,Elevated blood glucose level,R70-R79,category,IL
+R73,Elevated blood glucose level,R70-R79,category,FL
+R73,Elevated blood glucose level,R70-R79,category,NV
+R73,Elevated blood glucose level,R70-R79,category,CA
+R73,Elevated blood glucose level,R70-R79,category,AZ
+R73,Elevated blood glucose level,R70-R79,category,OR
+R73,Elevated blood glucose level,R70-R79,category,IA
+D10,Benign neoplasm of mouth and pharynx,D10-D36,category,NY
+D10,Benign neoplasm of mouth and pharynx,D10-D36,category,ND
+D10,Benign neoplasm of mouth and pharynx,D10-D36,category,KS
+D10,Benign neoplasm of mouth and pharynx,D10-D36,category,PA
+D10,Benign neoplasm of mouth and pharynx,D10-D36,category,TX
+D10,Benign neoplasm of mouth and pharynx,D10-D36,category,GA
+D10,Benign neoplasm of mouth and pharynx,D10-D36,category,OR
+D10,Benign neoplasm of mouth and pharynx,D10-D36,category,ID
+D10,Benign neoplasm of mouth and pharynx,D10-D36,category,OK
+D10,Benign neoplasm of mouth and pharynx,D10-D36,category,OH
+D10,Benign neoplasm of mouth and pharynx,D10-D36,category,MI
+D10,Benign neoplasm of mouth and pharynx,D10-D36,category,IA
+D10,Benign neoplasm of mouth and pharynx,D10-D36,category,IN
+D10,Benign neoplasm of mouth and pharynx,D10-D36,category,FL
+D10,Benign neoplasm of mouth and pharynx,D10-D36,category,NE
+D10,Benign neoplasm of mouth and pharynx,D10-D36,category,LA
+D10,Benign neoplasm of mouth and pharynx,D10-D36,category,IL
+D10,Benign neoplasm of mouth and pharynx,D10-D36,category,AZ
+D10,Benign neoplasm of mouth and pharynx,D10-D36,category,NV
+D10,Benign neoplasm of mouth and pharynx,D10-D36,category,CA
+D10,Benign neoplasm of mouth and pharynx,D10-D36,category,UT
+J05,Acute obstructive laryngitis [croup] and epiglottitis,J00-J06,category,PA
+J05,Acute obstructive laryngitis [croup] and epiglottitis,J00-J06,category,GA
+J05,Acute obstructive laryngitis [croup] and epiglottitis,J00-J06,category,NY
+J05,Acute obstructive laryngitis [croup] and epiglottitis,J00-J06,category,KS
+J05,Acute obstructive laryngitis [croup] and epiglottitis,J00-J06,category,OK
+J05,Acute obstructive laryngitis [croup] and epiglottitis,J00-J06,category,ND
+J05,Acute obstructive laryngitis [croup] and epiglottitis,J00-J06,category,ID
+J05,Acute obstructive laryngitis [croup] and epiglottitis,J00-J06,category,NE
+J05,Acute obstructive laryngitis [croup] and epiglottitis,J00-J06,category,TX
+J05,Acute obstructive laryngitis [croup] and epiglottitis,J00-J06,category,FL
+J05,Acute obstructive laryngitis [croup] and epiglottitis,J00-J06,category,MI
+J05,Acute obstructive laryngitis [croup] and epiglottitis,J00-J06,category,IN
+J05,Acute obstructive laryngitis [croup] and epiglottitis,J00-J06,category,CA
+J05,Acute obstructive laryngitis [croup] and epiglottitis,J00-J06,category,OR
+J05,Acute obstructive laryngitis [croup] and epiglottitis,J00-J06,category,IA
+J05,Acute obstructive laryngitis [croup] and epiglottitis,J00-J06,category,OH
+J05,Acute obstructive laryngitis [croup] and epiglottitis,J00-J06,category,NV
+J05,Acute obstructive laryngitis [croup] and epiglottitis,J00-J06,category,LA
+J05,Acute obstructive laryngitis [croup] and epiglottitis,J00-J06,category,AZ
+J05,Acute obstructive laryngitis [croup] and epiglottitis,J00-J06,category,IL
+J05,Acute obstructive laryngitis [croup] and epiglottitis,J00-J06,category,UT
+R74,Abnormal serum enzyme levels,R70-R79,category,NY
+R74,Abnormal serum enzyme levels,R70-R79,category,KS
+R74,Abnormal serum enzyme levels,R70-R79,category,ND
+R74,Abnormal serum enzyme levels,R70-R79,category,PA
+R74,Abnormal serum enzyme levels,R70-R79,category,ID
+R74,Abnormal serum enzyme levels,R70-R79,category,OK
+R74,Abnormal serum enzyme levels,R70-R79,category,NE
+R74,Abnormal serum enzyme levels,R70-R79,category,OR
+R74,Abnormal serum enzyme levels,R70-R79,category,MI
+R74,Abnormal serum enzyme levels,R70-R79,category,IN
+R74,Abnormal serum enzyme levels,R70-R79,category,FL
+R74,Abnormal serum enzyme levels,R70-R79,category,IL
+R74,Abnormal serum enzyme levels,R70-R79,category,GA
+R74,Abnormal serum enzyme levels,R70-R79,category,LA
+R74,Abnormal serum enzyme levels,R70-R79,category,TX
+R74,Abnormal serum enzyme levels,R70-R79,category,OH
+R74,Abnormal serum enzyme levels,R70-R79,category,NV
+R74,Abnormal serum enzyme levels,R70-R79,category,AZ
+R74,Abnormal serum enzyme levels,R70-R79,category,CA
+R74,Abnormal serum enzyme levels,R70-R79,category,UT
+R74,Abnormal serum enzyme levels,R70-R79,category,IA
+A93,"Other arthropod-borne viral fevers, not elsewhere classified",A92-A99,category,PA
+A93,"Other arthropod-borne viral fevers, not elsewhere classified",A92-A99,category,OK
+A93,"Other arthropod-borne viral fevers, not elsewhere classified",A92-A99,category,GA
+A93,"Other arthropod-borne viral fevers, not elsewhere classified",A92-A99,category,NE
+A93,"Other arthropod-borne viral fevers, not elsewhere classified",A92-A99,category,ND
+A93,"Other arthropod-borne viral fevers, not elsewhere classified",A92-A99,category,KS
+A93,"Other arthropod-borne viral fevers, not elsewhere classified",A92-A99,category,TX
+A93,"Other arthropod-borne viral fevers, not elsewhere classified",A92-A99,category,NY
+A93,"Other arthropod-borne viral fevers, not elsewhere classified",A92-A99,category,ID
+A93,"Other arthropod-borne viral fevers, not elsewhere classified",A92-A99,category,CA
+A93,"Other arthropod-borne viral fevers, not elsewhere classified",A92-A99,category,OR
+A93,"Other arthropod-borne viral fevers, not elsewhere classified",A92-A99,category,IA
+A93,"Other arthropod-borne viral fevers, not elsewhere classified",A92-A99,category,IN
+A93,"Other arthropod-borne viral fevers, not elsewhere classified",A92-A99,category,MI
+A93,"Other arthropod-borne viral fevers, not elsewhere classified",A92-A99,category,FL
+A93,"Other arthropod-borne viral fevers, not elsewhere classified",A92-A99,category,OH
+A93,"Other arthropod-borne viral fevers, not elsewhere classified",A92-A99,category,NV
+A93,"Other arthropod-borne viral fevers, not elsewhere classified",A92-A99,category,LA
+A93,"Other arthropod-borne viral fevers, not elsewhere classified",A92-A99,category,AZ
+A93,"Other arthropod-borne viral fevers, not elsewhere classified",A92-A99,category,IL
+A93,"Other arthropod-borne viral fevers, not elsewhere classified",A92-A99,category,UT
+D11,Benign neoplasm of major salivary glands,D10-D36,category,PA
+D11,Benign neoplasm of major salivary glands,D10-D36,category,NY
+D11,Benign neoplasm of major salivary glands,D10-D36,category,KS
+D11,Benign neoplasm of major salivary glands,D10-D36,category,TX
+D11,Benign neoplasm of major salivary glands,D10-D36,category,OK
+D11,Benign neoplasm of major salivary glands,D10-D36,category,GA
+D11,Benign neoplasm of major salivary glands,D10-D36,category,ND
+D11,Benign neoplasm of major salivary glands,D10-D36,category,ID
+D11,Benign neoplasm of major salivary glands,D10-D36,category,NE
+D11,Benign neoplasm of major salivary glands,D10-D36,category,IN
+D11,Benign neoplasm of major salivary glands,D10-D36,category,FL
+D11,Benign neoplasm of major salivary glands,D10-D36,category,OR
+D11,Benign neoplasm of major salivary glands,D10-D36,category,MI
+D11,Benign neoplasm of major salivary glands,D10-D36,category,OH
+D11,Benign neoplasm of major salivary glands,D10-D36,category,AZ
+D11,Benign neoplasm of major salivary glands,D10-D36,category,LA
+D11,Benign neoplasm of major salivary glands,D10-D36,category,IL
+D11,Benign neoplasm of major salivary glands,D10-D36,category,CA
+D11,Benign neoplasm of major salivary glands,D10-D36,category,IA
+D11,Benign neoplasm of major salivary glands,D10-D36,category,NV
+D11,Benign neoplasm of major salivary glands,D10-D36,category,UT
+D11,Benign neoplasm of major salivary glands,D10-D36,category,AL
+I65,"Occlusion and stenosis of precerebral arteries, not resulting in cerebral infarction",I60-I69,category,NY
+I65,"Occlusion and stenosis of precerebral arteries, not resulting in cerebral infarction",I60-I69,category,PA
+I65,"Occlusion and stenosis of precerebral arteries, not resulting in cerebral infarction",I60-I69,category,OK
+I65,"Occlusion and stenosis of precerebral arteries, not resulting in cerebral infarction",I60-I69,category,LA
+I65,"Occlusion and stenosis of precerebral arteries, not resulting in cerebral infarction",I60-I69,category,ID
+I65,"Occlusion and stenosis of precerebral arteries, not resulting in cerebral infarction",I60-I69,category,MI
+I65,"Occlusion and stenosis of precerebral arteries, not resulting in cerebral infarction",I60-I69,category,IN
+I65,"Occlusion and stenosis of precerebral arteries, not resulting in cerebral infarction",I60-I69,category,GA
+I65,"Occlusion and stenosis of precerebral arteries, not resulting in cerebral infarction",I60-I69,category,NV
+I65,"Occlusion and stenosis of precerebral arteries, not resulting in cerebral infarction",I60-I69,category,OH
+I65,"Occlusion and stenosis of precerebral arteries, not resulting in cerebral infarction",I60-I69,category,IL
+I65,"Occlusion and stenosis of precerebral arteries, not resulting in cerebral infarction",I60-I69,category,NE
+I65,"Occlusion and stenosis of precerebral arteries, not resulting in cerebral infarction",I60-I69,category,FL
+I65,"Occlusion and stenosis of precerebral arteries, not resulting in cerebral infarction",I60-I69,category,OR
+I65,"Occlusion and stenosis of precerebral arteries, not resulting in cerebral infarction",I60-I69,category,AZ
+I65,"Occlusion and stenosis of precerebral arteries, not resulting in cerebral infarction",I60-I69,category,TX
+I65,"Occlusion and stenosis of precerebral arteries, not resulting in cerebral infarction",I60-I69,category,CA
+R78,"Findings of drugs and other substances, not normally found in blood",R70-R79,category,PA
+R78,"Findings of drugs and other substances, not normally found in blood",R70-R79,category,OK
+R78,"Findings of drugs and other substances, not normally found in blood",R70-R79,category,GA
+R78,"Findings of drugs and other substances, not normally found in blood",R70-R79,category,ND
+R78,"Findings of drugs and other substances, not normally found in blood",R70-R79,category,ID
+R78,"Findings of drugs and other substances, not normally found in blood",R70-R79,category,NY
+R78,"Findings of drugs and other substances, not normally found in blood",R70-R79,category,KS
+R78,"Findings of drugs and other substances, not normally found in blood",R70-R79,category,IA
+R78,"Findings of drugs and other substances, not normally found in blood",R70-R79,category,CA
+R78,"Findings of drugs and other substances, not normally found in blood",R70-R79,category,IN
+R78,"Findings of drugs and other substances, not normally found in blood",R70-R79,category,FL
+R78,"Findings of drugs and other substances, not normally found in blood",R70-R79,category,MI
+R78,"Findings of drugs and other substances, not normally found in blood",R70-R79,category,NE
+R78,"Findings of drugs and other substances, not normally found in blood",R70-R79,category,OH
+R78,"Findings of drugs and other substances, not normally found in blood",R70-R79,category,LA
+R78,"Findings of drugs and other substances, not normally found in blood",R70-R79,category,IL
+R78,"Findings of drugs and other substances, not normally found in blood",R70-R79,category,NV
+R78,"Findings of drugs and other substances, not normally found in blood",R70-R79,category,TX
+R78,"Findings of drugs and other substances, not normally found in blood",R70-R79,category,OR
+R78,"Findings of drugs and other substances, not normally found in blood",R70-R79,category,AZ
+R78,"Findings of drugs and other substances, not normally found in blood",R70-R79,category,UT
+B98,Other specified infectious agents as the cause of diseases classified to other chapters,B95-B98,category,TX
+B98,Other specified infectious agents as the cause of diseases classified to other chapters,B95-B98,category,KS
+B98,Other specified infectious agents as the cause of diseases classified to other chapters,B95-B98,category,PA
+B98,Other specified infectious agents as the cause of diseases classified to other chapters,B95-B98,category,OK
+B98,Other specified infectious agents as the cause of diseases classified to other chapters,B95-B98,category,ND
+B98,Other specified infectious agents as the cause of diseases classified to other chapters,B95-B98,category,NY
+B98,Other specified infectious agents as the cause of diseases classified to other chapters,B95-B98,category,IN
+B98,Other specified infectious agents as the cause of diseases classified to other chapters,B95-B98,category,OH
+B98,Other specified infectious agents as the cause of diseases classified to other chapters,B95-B98,category,NE
+B98,Other specified infectious agents as the cause of diseases classified to other chapters,B95-B98,category,ID
+B98,Other specified infectious agents as the cause of diseases classified to other chapters,B95-B98,category,MI
+B98,Other specified infectious agents as the cause of diseases classified to other chapters,B95-B98,category,IL
+B98,Other specified infectious agents as the cause of diseases classified to other chapters,B95-B98,category,CA
+B98,Other specified infectious agents as the cause of diseases classified to other chapters,B95-B98,category,IA
+B98,Other specified infectious agents as the cause of diseases classified to other chapters,B95-B98,category,FL
+B98,Other specified infectious agents as the cause of diseases classified to other chapters,B95-B98,category,OR
+B98,Other specified infectious agents as the cause of diseases classified to other chapters,B95-B98,category,GA
+B98,Other specified infectious agents as the cause of diseases classified to other chapters,B95-B98,category,AZ
+B98,Other specified infectious agents as the cause of diseases classified to other chapters,B95-B98,category,NV
+B98,Other specified infectious agents as the cause of diseases classified to other chapters,B95-B98,category,LA
+B98,Other specified infectious agents as the cause of diseases classified to other chapters,B95-B98,category,UT
+P15,Other birth injuries,P10-P15,category,PA
+P15,Other birth injuries,P10-P15,category,OK
+P15,Other birth injuries,P10-P15,category,NY
+P15,Other birth injuries,P10-P15,category,NE
+P15,Other birth injuries,P10-P15,category,ND
+P15,Other birth injuries,P10-P15,category,OR
+P15,Other birth injuries,P10-P15,category,KS
+P15,Other birth injuries,P10-P15,category,ID
+P15,Other birth injuries,P10-P15,category,MI
+P15,Other birth injuries,P10-P15,category,TX
+P15,Other birth injuries,P10-P15,category,GA
+P15,Other birth injuries,P10-P15,category,FL
+P15,Other birth injuries,P10-P15,category,IN
+P15,Other birth injuries,P10-P15,category,OH
+P15,Other birth injuries,P10-P15,category,LA
+P15,Other birth injuries,P10-P15,category,CA
+P15,Other birth injuries,P10-P15,category,IA
+P15,Other birth injuries,P10-P15,category,IL
+P15,Other birth injuries,P10-P15,category,NV
+P15,Other birth injuries,P10-P15,category,AZ
+P15,Other birth injuries,P10-P15,category,UT
+D36,Benign neoplasm of other and unspecified sites,D10-D36,category,PA
+D36,Benign neoplasm of other and unspecified sites,D10-D36,category,ND
+D36,Benign neoplasm of other and unspecified sites,D10-D36,category,NY
+D36,Benign neoplasm of other and unspecified sites,D10-D36,category,GA
+D36,Benign neoplasm of other and unspecified sites,D10-D36,category,ID
+D36,Benign neoplasm of other and unspecified sites,D10-D36,category,OK
+D36,Benign neoplasm of other and unspecified sites,D10-D36,category,IN
+D36,Benign neoplasm of other and unspecified sites,D10-D36,category,OH
+D36,Benign neoplasm of other and unspecified sites,D10-D36,category,MI
+D36,Benign neoplasm of other and unspecified sites,D10-D36,category,TX
+D36,Benign neoplasm of other and unspecified sites,D10-D36,category,OR
+D36,Benign neoplasm of other and unspecified sites,D10-D36,category,IL
+D36,Benign neoplasm of other and unspecified sites,D10-D36,category,NE
+D36,Benign neoplasm of other and unspecified sites,D10-D36,category,FL
+D36,Benign neoplasm of other and unspecified sites,D10-D36,category,LA
+D36,Benign neoplasm of other and unspecified sites,D10-D36,category,NV
+D36,Benign neoplasm of other and unspecified sites,D10-D36,category,AZ
+D36,Benign neoplasm of other and unspecified sites,D10-D36,category,CA
+D36,Benign neoplasm of other and unspecified sites,D10-D36,category,UT
+F51,Nonorganic sleep disorders,F50-F59,category,NY
+F51,Nonorganic sleep disorders,F50-F59,category,PA
+F51,Nonorganic sleep disorders,F50-F59,category,IN
+F51,Nonorganic sleep disorders,F50-F59,category,OK
+F51,Nonorganic sleep disorders,F50-F59,category,ND
+F51,Nonorganic sleep disorders,F50-F59,category,MI
+F51,Nonorganic sleep disorders,F50-F59,category,OH
+F51,Nonorganic sleep disorders,F50-F59,category,TX
+F51,Nonorganic sleep disorders,F50-F59,category,NE
+F51,Nonorganic sleep disorders,F50-F59,category,ID
+F51,Nonorganic sleep disorders,F50-F59,category,GA
+F51,Nonorganic sleep disorders,F50-F59,category,OR
+F51,Nonorganic sleep disorders,F50-F59,category,FL
+F51,Nonorganic sleep disorders,F50-F59,category,IL
+F51,Nonorganic sleep disorders,F50-F59,category,LA
+F51,Nonorganic sleep disorders,F50-F59,category,NV
+F51,Nonorganic sleep disorders,F50-F59,category,AZ
+F51,Nonorganic sleep disorders,F50-F59,category,CA
+F51,Nonorganic sleep disorders,F50-F59,category,UT
+Y06,Neglect and abandonment,X85-Y09,category,ND
+Y06,Neglect and abandonment,X85-Y09,category,PA
+Y06,Neglect and abandonment,X85-Y09,category,OK
+Y06,Neglect and abandonment,X85-Y09,category,KS
+Y06,Neglect and abandonment,X85-Y09,category,TX
+Y06,Neglect and abandonment,X85-Y09,category,NY
+Y06,Neglect and abandonment,X85-Y09,category,NE
+Y06,Neglect and abandonment,X85-Y09,category,OR
+Y06,Neglect and abandonment,X85-Y09,category,IN
+Y06,Neglect and abandonment,X85-Y09,category,OH
+Y06,Neglect and abandonment,X85-Y09,category,MI
+Y06,Neglect and abandonment,X85-Y09,category,LA
+Y06,Neglect and abandonment,X85-Y09,category,GA
+Y06,Neglect and abandonment,X85-Y09,category,IL
+Y06,Neglect and abandonment,X85-Y09,category,AZ
+Y06,Neglect and abandonment,X85-Y09,category,FL
+Y06,Neglect and abandonment,X85-Y09,category,ID
+Y06,Neglect and abandonment,X85-Y09,category,NV
+Y06,Neglect and abandonment,X85-Y09,category,CA
+Y06,Neglect and abandonment,X85-Y09,category,IA
+A96,Arenaviral haemorrhagic fever,A92-A99,category,PA
+A96,Arenaviral haemorrhagic fever,A92-A99,category,NY
+A96,Arenaviral haemorrhagic fever,A92-A99,category,OK
+A96,Arenaviral haemorrhagic fever,A92-A99,category,ND
+A96,Arenaviral haemorrhagic fever,A92-A99,category,MI
+A96,Arenaviral haemorrhagic fever,A92-A99,category,OR
+A96,Arenaviral haemorrhagic fever,A92-A99,category,IN
+A96,Arenaviral haemorrhagic fever,A92-A99,category,ID
+A96,Arenaviral haemorrhagic fever,A92-A99,category,TX
+A96,Arenaviral haemorrhagic fever,A92-A99,category,NE
+A96,Arenaviral haemorrhagic fever,A92-A99,category,FL
+A96,Arenaviral haemorrhagic fever,A92-A99,category,IA
+A96,Arenaviral haemorrhagic fever,A92-A99,category,IL
+A96,Arenaviral haemorrhagic fever,A92-A99,category,GA
+A96,Arenaviral haemorrhagic fever,A92-A99,category,LA
+A96,Arenaviral haemorrhagic fever,A92-A99,category,AZ
+A96,Arenaviral haemorrhagic fever,A92-A99,category,NV
+A96,Arenaviral haemorrhagic fever,A92-A99,category,OH
+A96,Arenaviral haemorrhagic fever,A92-A99,category,CA
+L13,Other bullous disorders,L10-L14,category,ID
+L13,Other bullous disorders,L10-L14,category,NY
+L13,Other bullous disorders,L10-L14,category,OK
+L13,Other bullous disorders,L10-L14,category,PA
+L13,Other bullous disorders,L10-L14,category,IN
+L13,Other bullous disorders,L10-L14,category,MI
+L13,Other bullous disorders,L10-L14,category,GA
+L13,Other bullous disorders,L10-L14,category,OH
+L13,Other bullous disorders,L10-L14,category,TX
+L13,Other bullous disorders,L10-L14,category,OR
+L13,Other bullous disorders,L10-L14,category,AZ
+L13,Other bullous disorders,L10-L14,category,FL
+L13,Other bullous disorders,L10-L14,category,CA
+L13,Other bullous disorders,L10-L14,category,NE
+L13,Other bullous disorders,L10-L14,category,NV
+L13,Other bullous disorders,L10-L14,category,UT
+L13,Other bullous disorders,L10-L14,category,IL
+P10,Intracranial laceration and haemorrhage due to birth injury,P10-P15,category,NY
+P10,Intracranial laceration and haemorrhage due to birth injury,P10-P15,category,PA
+P10,Intracranial laceration and haemorrhage due to birth injury,P10-P15,category,ND
+P10,Intracranial laceration and haemorrhage due to birth injury,P10-P15,category,IN
+P10,Intracranial laceration and haemorrhage due to birth injury,P10-P15,category,ID
+P10,Intracranial laceration and haemorrhage due to birth injury,P10-P15,category,MI
+P10,Intracranial laceration and haemorrhage due to birth injury,P10-P15,category,GA
+P10,Intracranial laceration and haemorrhage due to birth injury,P10-P15,category,CA
+P10,Intracranial laceration and haemorrhage due to birth injury,P10-P15,category,TX
+P10,Intracranial laceration and haemorrhage due to birth injury,P10-P15,category,NE
+P10,Intracranial laceration and haemorrhage due to birth injury,P10-P15,category,OH
+P10,Intracranial laceration and haemorrhage due to birth injury,P10-P15,category,OK
+P10,Intracranial laceration and haemorrhage due to birth injury,P10-P15,category,LA
+P10,Intracranial laceration and haemorrhage due to birth injury,P10-P15,category,FL
+P10,Intracranial laceration and haemorrhage due to birth injury,P10-P15,category,OR
+P10,Intracranial laceration and haemorrhage due to birth injury,P10-P15,category,AZ
+P10,Intracranial laceration and haemorrhage due to birth injury,P10-P15,category,IL
+P10,Intracranial laceration and haemorrhage due to birth injury,P10-P15,category,UT
+P10,Intracranial laceration and haemorrhage due to birth injury,P10-P15,category,NV
+I62,Other nontraumatic intracranial haemorrhage,I60-I69,category,PA
+I62,Other nontraumatic intracranial haemorrhage,I60-I69,category,OK
+I62,Other nontraumatic intracranial haemorrhage,I60-I69,category,NY
+I62,Other nontraumatic intracranial haemorrhage,I60-I69,category,ID
+I62,Other nontraumatic intracranial haemorrhage,I60-I69,category,IN
+I62,Other nontraumatic intracranial haemorrhage,I60-I69,category,OH
+I62,Other nontraumatic intracranial haemorrhage,I60-I69,category,FL
+I62,Other nontraumatic intracranial haemorrhage,I60-I69,category,MI
+I62,Other nontraumatic intracranial haemorrhage,I60-I69,category,GA
+I62,Other nontraumatic intracranial haemorrhage,I60-I69,category,CA
+I62,Other nontraumatic intracranial haemorrhage,I60-I69,category,IL
+I62,Other nontraumatic intracranial haemorrhage,I60-I69,category,AZ
+I62,Other nontraumatic intracranial haemorrhage,I60-I69,category,NE
+I62,Other nontraumatic intracranial haemorrhage,I60-I69,category,TX
+I62,Other nontraumatic intracranial haemorrhage,I60-I69,category,NV
+I62,Other nontraumatic intracranial haemorrhage,I60-I69,category,OR
+R94,Abnormal results of function studies,R90-R94,category,ID
+R94,Abnormal results of function studies,R90-R94,category,IN
+R94,Abnormal results of function studies,R90-R94,category,OH
+R94,Abnormal results of function studies,R90-R94,category,ND
+R94,Abnormal results of function studies,R90-R94,category,PA
+R94,Abnormal results of function studies,R90-R94,category,TX
+R94,Abnormal results of function studies,R90-R94,category,IA
+R94,Abnormal results of function studies,R90-R94,category,GA
+R94,Abnormal results of function studies,R90-R94,category,NE
+R94,Abnormal results of function studies,R90-R94,category,OK
+R94,Abnormal results of function studies,R90-R94,category,IL
+R94,Abnormal results of function studies,R90-R94,category,LA
+R94,Abnormal results of function studies,R90-R94,category,FL
+R94,Abnormal results of function studies,R90-R94,category,NV
+R94,Abnormal results of function studies,R90-R94,category,OR
+R94,Abnormal results of function studies,R90-R94,category,MI
+R94,Abnormal results of function studies,R90-R94,category,AZ
+R94,Abnormal results of function studies,R90-R94,category,NY
+R94,Abnormal results of function studies,R90-R94,category,CA
+R94,Abnormal results of function studies,R90-R94,category,UT
+A95,Yellow fever,A92-A99,category,NY
+A95,Yellow fever,A92-A99,category,PA
+A95,Yellow fever,A92-A99,category,GA
+A95,Yellow fever,A92-A99,category,ND
+A95,Yellow fever,A92-A99,category,OK
+A95,Yellow fever,A92-A99,category,ID
+A95,Yellow fever,A92-A99,category,FL
+A95,Yellow fever,A92-A99,category,IA
+A95,Yellow fever,A92-A99,category,OR
+A95,Yellow fever,A92-A99,category,IN
+A95,Yellow fever,A92-A99,category,NE
+A95,Yellow fever,A92-A99,category,TX
+A95,Yellow fever,A92-A99,category,AZ
+A95,Yellow fever,A92-A99,category,MI
+A95,Yellow fever,A92-A99,category,IL
+A95,Yellow fever,A92-A99,category,OH
+A95,Yellow fever,A92-A99,category,LA
+A95,Yellow fever,A92-A99,category,NV
+A95,Yellow fever,A92-A99,category,CA
+A95,Yellow fever,A92-A99,category,UT
+R70,Elevated erythrocyte sedimentation rate and abnormality of plasma viscosity,R70-R79,category,OR
+R70,Elevated erythrocyte sedimentation rate and abnormality of plasma viscosity,R70-R79,category,PA
+R70,Elevated erythrocyte sedimentation rate and abnormality of plasma viscosity,R70-R79,category,OK
+R70,Elevated erythrocyte sedimentation rate and abnormality of plasma viscosity,R70-R79,category,ID
+R70,Elevated erythrocyte sedimentation rate and abnormality of plasma viscosity,R70-R79,category,NY
+R70,Elevated erythrocyte sedimentation rate and abnormality of plasma viscosity,R70-R79,category,ND
+R70,Elevated erythrocyte sedimentation rate and abnormality of plasma viscosity,R70-R79,category,GA
+R70,Elevated erythrocyte sedimentation rate and abnormality of plasma viscosity,R70-R79,category,LA
+R70,Elevated erythrocyte sedimentation rate and abnormality of plasma viscosity,R70-R79,category,TX
+R70,Elevated erythrocyte sedimentation rate and abnormality of plasma viscosity,R70-R79,category,NE
+R70,Elevated erythrocyte sedimentation rate and abnormality of plasma viscosity,R70-R79,category,IN
+R70,Elevated erythrocyte sedimentation rate and abnormality of plasma viscosity,R70-R79,category,OH
+R70,Elevated erythrocyte sedimentation rate and abnormality of plasma viscosity,R70-R79,category,MI
+R70,Elevated erythrocyte sedimentation rate and abnormality of plasma viscosity,R70-R79,category,NV
+R70,Elevated erythrocyte sedimentation rate and abnormality of plasma viscosity,R70-R79,category,IL
+R70,Elevated erythrocyte sedimentation rate and abnormality of plasma viscosity,R70-R79,category,FL
+R70,Elevated erythrocyte sedimentation rate and abnormality of plasma viscosity,R70-R79,category,IA
+R70,Elevated erythrocyte sedimentation rate and abnormality of plasma viscosity,R70-R79,category,CA
+R70,Elevated erythrocyte sedimentation rate and abnormality of plasma viscosity,R70-R79,category,AZ
+R70,Elevated erythrocyte sedimentation rate and abnormality of plasma viscosity,R70-R79,category,UT
+D20,Benign neoplasm of soft tissue of retroperitoneum and peritoneum,D10-D36,category,OK
+D20,Benign neoplasm of soft tissue of retroperitoneum and peritoneum,D10-D36,category,NY
+D20,Benign neoplasm of soft tissue of retroperitoneum and peritoneum,D10-D36,category,PA
+D20,Benign neoplasm of soft tissue of retroperitoneum and peritoneum,D10-D36,category,TX
+D20,Benign neoplasm of soft tissue of retroperitoneum and peritoneum,D10-D36,category,ND
+D20,Benign neoplasm of soft tissue of retroperitoneum and peritoneum,D10-D36,category,GA
+D20,Benign neoplasm of soft tissue of retroperitoneum and peritoneum,D10-D36,category,OR
+D20,Benign neoplasm of soft tissue of retroperitoneum and peritoneum,D10-D36,category,ID
+D20,Benign neoplasm of soft tissue of retroperitoneum and peritoneum,D10-D36,category,IN
+D20,Benign neoplasm of soft tissue of retroperitoneum and peritoneum,D10-D36,category,MI
+D20,Benign neoplasm of soft tissue of retroperitoneum and peritoneum,D10-D36,category,IA
+D20,Benign neoplasm of soft tissue of retroperitoneum and peritoneum,D10-D36,category,OH
+D20,Benign neoplasm of soft tissue of retroperitoneum and peritoneum,D10-D36,category,LA
+D20,Benign neoplasm of soft tissue of retroperitoneum and peritoneum,D10-D36,category,NE
+D20,Benign neoplasm of soft tissue of retroperitoneum and peritoneum,D10-D36,category,FL
+D20,Benign neoplasm of soft tissue of retroperitoneum and peritoneum,D10-D36,category,AZ
+D20,Benign neoplasm of soft tissue of retroperitoneum and peritoneum,D10-D36,category,IL
+D20,Benign neoplasm of soft tissue of retroperitoneum and peritoneum,D10-D36,category,CA
+D20,Benign neoplasm of soft tissue of retroperitoneum and peritoneum,D10-D36,category,NV
+D20,Benign neoplasm of soft tissue of retroperitoneum and peritoneum,D10-D36,category,KS
+D20,Benign neoplasm of soft tissue of retroperitoneum and peritoneum,D10-D36,category,UT
+F98,Other behavioural and emotional disorders with onset usually occurring in childhood and adolescence,F90-F98,category,NY
+F98,Other behavioural and emotional disorders with onset usually occurring in childhood and adolescence,F90-F98,category,OK
+F98,Other behavioural and emotional disorders with onset usually occurring in childhood and adolescence,F90-F98,category,PA
+F98,Other behavioural and emotional disorders with onset usually occurring in childhood and adolescence,F90-F98,category,OR
+F98,Other behavioural and emotional disorders with onset usually occurring in childhood and adolescence,F90-F98,category,IN
+F98,Other behavioural and emotional disorders with onset usually occurring in childhood and adolescence,F90-F98,category,NE
+F98,Other behavioural and emotional disorders with onset usually occurring in childhood and adolescence,F90-F98,category,ID
+F98,Other behavioural and emotional disorders with onset usually occurring in childhood and adolescence,F90-F98,category,MI
+F98,Other behavioural and emotional disorders with onset usually occurring in childhood and adolescence,F90-F98,category,OH
+F98,Other behavioural and emotional disorders with onset usually occurring in childhood and adolescence,F90-F98,category,TX
+F98,Other behavioural and emotional disorders with onset usually occurring in childhood and adolescence,F90-F98,category,FL
+F98,Other behavioural and emotional disorders with onset usually occurring in childhood and adolescence,F90-F98,category,CA
+F98,Other behavioural and emotional disorders with onset usually occurring in childhood and adolescence,F90-F98,category,IL
+F98,Other behavioural and emotional disorders with onset usually occurring in childhood and adolescence,F90-F98,category,GA
+F98,Other behavioural and emotional disorders with onset usually occurring in childhood and adolescence,F90-F98,category,AZ
+F98,Other behavioural and emotional disorders with onset usually occurring in childhood and adolescence,F90-F98,category,NV
+A97,Dengue,A92-A99,category,OK
+A97,Dengue,A92-A99,category,NY
+A97,Dengue,A92-A99,category,PA
+A97,Dengue,A92-A99,category,TX
+A97,Dengue,A92-A99,category,ID
+A97,Dengue,A92-A99,category,ND
+A97,Dengue,A92-A99,category,LA
+A97,Dengue,A92-A99,category,IN
+A97,Dengue,A92-A99,category,OR
+A97,Dengue,A92-A99,category,NE
+A97,Dengue,A92-A99,category,MI
+A97,Dengue,A92-A99,category,GA
+A97,Dengue,A92-A99,category,OH
+A97,Dengue,A92-A99,category,IL
+A97,Dengue,A92-A99,category,NV
+A97,Dengue,A92-A99,category,FL
+A97,Dengue,A92-A99,category,IA
+A97,Dengue,A92-A99,category,AZ
+A97,Dengue,A92-A99,category,CA
+A97,Dengue,A92-A99,category,UT
+F92,Mixed disorders of conduct and emotions,F90-F98,category,IN
+F92,Mixed disorders of conduct and emotions,F90-F98,category,GA
+F92,Mixed disorders of conduct and emotions,F90-F98,category,PA
+F92,Mixed disorders of conduct and emotions,F90-F98,category,OK
+F92,Mixed disorders of conduct and emotions,F90-F98,category,MI
+F92,Mixed disorders of conduct and emotions,F90-F98,category,TX
+F92,Mixed disorders of conduct and emotions,F90-F98,category,OR
+F92,Mixed disorders of conduct and emotions,F90-F98,category,NE
+F92,Mixed disorders of conduct and emotions,F90-F98,category,ID
+F92,Mixed disorders of conduct and emotions,F90-F98,category,LA
+F92,Mixed disorders of conduct and emotions,F90-F98,category,OH
+F92,Mixed disorders of conduct and emotions,F90-F98,category,FL
+F92,Mixed disorders of conduct and emotions,F90-F98,category,NV
+F92,Mixed disorders of conduct and emotions,F90-F98,category,AZ
+F92,Mixed disorders of conduct and emotions,F90-F98,category,IL
+F92,Mixed disorders of conduct and emotions,F90-F98,category,NY
+F92,Mixed disorders of conduct and emotions,F90-F98,category,CA
+D23,Other benign neoplasms of skin,D10-D36,category,OH
+D23,Other benign neoplasms of skin,D10-D36,category,OK
+D23,Other benign neoplasms of skin,D10-D36,category,PA
+D23,Other benign neoplasms of skin,D10-D36,category,NE
+D23,Other benign neoplasms of skin,D10-D36,category,ND
+D23,Other benign neoplasms of skin,D10-D36,category,TX
+D23,Other benign neoplasms of skin,D10-D36,category,ID
+D23,Other benign neoplasms of skin,D10-D36,category,NY
+D23,Other benign neoplasms of skin,D10-D36,category,OR
+D23,Other benign neoplasms of skin,D10-D36,category,IN
+D23,Other benign neoplasms of skin,D10-D36,category,MI
+D23,Other benign neoplasms of skin,D10-D36,category,GA
+D23,Other benign neoplasms of skin,D10-D36,category,LA
+D23,Other benign neoplasms of skin,D10-D36,category,IA
+D23,Other benign neoplasms of skin,D10-D36,category,IL
+D23,Other benign neoplasms of skin,D10-D36,category,NV
+D23,Other benign neoplasms of skin,D10-D36,category,FL
+D23,Other benign neoplasms of skin,D10-D36,category,AZ
+D23,Other benign neoplasms of skin,D10-D36,category,CA
+D23,Other benign neoplasms of skin,D10-D36,category,UT
+R90,Abnormal findings on diagnostic imaging of central nervous system,R90-R94,category,KS
+R90,Abnormal findings on diagnostic imaging of central nervous system,R90-R94,category,OK
+R90,Abnormal findings on diagnostic imaging of central nervous system,R90-R94,category,ND
+R90,Abnormal findings on diagnostic imaging of central nervous system,R90-R94,category,PA
+R90,Abnormal findings on diagnostic imaging of central nervous system,R90-R94,category,ID
+R90,Abnormal findings on diagnostic imaging of central nervous system,R90-R94,category,NY
+R90,Abnormal findings on diagnostic imaging of central nervous system,R90-R94,category,NE
+R90,Abnormal findings on diagnostic imaging of central nervous system,R90-R94,category,IN
+R90,Abnormal findings on diagnostic imaging of central nervous system,R90-R94,category,MI
+R90,Abnormal findings on diagnostic imaging of central nervous system,R90-R94,category,TX
+R90,Abnormal findings on diagnostic imaging of central nervous system,R90-R94,category,IA
+R90,Abnormal findings on diagnostic imaging of central nervous system,R90-R94,category,LA
+R90,Abnormal findings on diagnostic imaging of central nervous system,R90-R94,category,FL
+R90,Abnormal findings on diagnostic imaging of central nervous system,R90-R94,category,OR
+R90,Abnormal findings on diagnostic imaging of central nervous system,R90-R94,category,IL
+R90,Abnormal findings on diagnostic imaging of central nervous system,R90-R94,category,GA
+R90,Abnormal findings on diagnostic imaging of central nervous system,R90-R94,category,NV
+R90,Abnormal findings on diagnostic imaging of central nervous system,R90-R94,category,CA
+R90,Abnormal findings on diagnostic imaging of central nervous system,R90-R94,category,OH
+R90,Abnormal findings on diagnostic imaging of central nervous system,R90-R94,category,AZ
+R90,Abnormal findings on diagnostic imaging of central nervous system,R90-R94,category,UT
+D15,Benign neoplasm of other and unspecified intrathoracic organs,D10-D36,category,OK
+D15,Benign neoplasm of other and unspecified intrathoracic organs,D10-D36,category,PA
+D15,Benign neoplasm of other and unspecified intrathoracic organs,D10-D36,category,OH
+D15,Benign neoplasm of other and unspecified intrathoracic organs,D10-D36,category,MI
+D15,Benign neoplasm of other and unspecified intrathoracic organs,D10-D36,category,TX
+D15,Benign neoplasm of other and unspecified intrathoracic organs,D10-D36,category,IN
+D15,Benign neoplasm of other and unspecified intrathoracic organs,D10-D36,category,FL
+D15,Benign neoplasm of other and unspecified intrathoracic organs,D10-D36,category,OR
+D15,Benign neoplasm of other and unspecified intrathoracic organs,D10-D36,category,NE
+D15,Benign neoplasm of other and unspecified intrathoracic organs,D10-D36,category,GA
+D15,Benign neoplasm of other and unspecified intrathoracic organs,D10-D36,category,ID
+D15,Benign neoplasm of other and unspecified intrathoracic organs,D10-D36,category,CA
+D15,Benign neoplasm of other and unspecified intrathoracic organs,D10-D36,category,AZ
+D15,Benign neoplasm of other and unspecified intrathoracic organs,D10-D36,category,IL
+D15,Benign neoplasm of other and unspecified intrathoracic organs,D10-D36,category,NV
+D15,Benign neoplasm of other and unspecified intrathoracic organs,D10-D36,category,NY
+D15,Benign neoplasm of other and unspecified intrathoracic organs,D10-D36,category,UT
+D21,Other benign neoplasms of connective and other soft tissue,D10-D36,category,ID
+D21,Other benign neoplasms of connective and other soft tissue,D10-D36,category,OK
+D21,Other benign neoplasms of connective and other soft tissue,D10-D36,category,LA
+D21,Other benign neoplasms of connective and other soft tissue,D10-D36,category,IN
+D21,Other benign neoplasms of connective and other soft tissue,D10-D36,category,OH
+D21,Other benign neoplasms of connective and other soft tissue,D10-D36,category,PA
+D21,Other benign neoplasms of connective and other soft tissue,D10-D36,category,TX
+D21,Other benign neoplasms of connective and other soft tissue,D10-D36,category,MI
+D21,Other benign neoplasms of connective and other soft tissue,D10-D36,category,OR
+D21,Other benign neoplasms of connective and other soft tissue,D10-D36,category,NE
+D21,Other benign neoplasms of connective and other soft tissue,D10-D36,category,FL
+D21,Other benign neoplasms of connective and other soft tissue,D10-D36,category,NV
+D21,Other benign neoplasms of connective and other soft tissue,D10-D36,category,GA
+D21,Other benign neoplasms of connective and other soft tissue,D10-D36,category,AZ
+D21,Other benign neoplasms of connective and other soft tissue,D10-D36,category,IL
+D21,Other benign neoplasms of connective and other soft tissue,D10-D36,category,CA
+D21,Other benign neoplasms of connective and other soft tissue,D10-D36,category,NY
+D21,Other benign neoplasms of connective and other soft tissue,D10-D36,category,UT
+D30,Benign neoplasm of urinary organs,D10-D36,category,PA
+D30,Benign neoplasm of urinary organs,D10-D36,category,ID
+D30,Benign neoplasm of urinary organs,D10-D36,category,MI
+D30,Benign neoplasm of urinary organs,D10-D36,category,FL
+D30,Benign neoplasm of urinary organs,D10-D36,category,OR
+D30,Benign neoplasm of urinary organs,D10-D36,category,OK
+D30,Benign neoplasm of urinary organs,D10-D36,category,IA
+D30,Benign neoplasm of urinary organs,D10-D36,category,GA
+D30,Benign neoplasm of urinary organs,D10-D36,category,IN
+D30,Benign neoplasm of urinary organs,D10-D36,category,OH
+D30,Benign neoplasm of urinary organs,D10-D36,category,LA
+D30,Benign neoplasm of urinary organs,D10-D36,category,TX
+D30,Benign neoplasm of urinary organs,D10-D36,category,NY
+D30,Benign neoplasm of urinary organs,D10-D36,category,NE
+D30,Benign neoplasm of urinary organs,D10-D36,category,NV
+D30,Benign neoplasm of urinary organs,D10-D36,category,IL
+D30,Benign neoplasm of urinary organs,D10-D36,category,AZ
+D30,Benign neoplasm of urinary organs,D10-D36,category,CA
+D30,Benign neoplasm of urinary organs,D10-D36,category,KS
+D33,Benign neoplasm of brain and other parts of central nervous system,D10-D36,category,OH
+D33,Benign neoplasm of brain and other parts of central nervous system,D10-D36,category,NY
+D33,Benign neoplasm of brain and other parts of central nervous system,D10-D36,category,GA
+D33,Benign neoplasm of brain and other parts of central nervous system,D10-D36,category,NE
+D33,Benign neoplasm of brain and other parts of central nervous system,D10-D36,category,LA
+D33,Benign neoplasm of brain and other parts of central nervous system,D10-D36,category,PA
+D33,Benign neoplasm of brain and other parts of central nervous system,D10-D36,category,ID
+D33,Benign neoplasm of brain and other parts of central nervous system,D10-D36,category,OK
+D33,Benign neoplasm of brain and other parts of central nervous system,D10-D36,category,ND
+D33,Benign neoplasm of brain and other parts of central nervous system,D10-D36,category,OR
+D33,Benign neoplasm of brain and other parts of central nervous system,D10-D36,category,TX
+D33,Benign neoplasm of brain and other parts of central nervous system,D10-D36,category,IN
+D33,Benign neoplasm of brain and other parts of central nervous system,D10-D36,category,NV
+D33,Benign neoplasm of brain and other parts of central nervous system,D10-D36,category,MI
+D33,Benign neoplasm of brain and other parts of central nervous system,D10-D36,category,FL
+D33,Benign neoplasm of brain and other parts of central nervous system,D10-D36,category,IL
+D33,Benign neoplasm of brain and other parts of central nervous system,D10-D36,category,IA
+D33,Benign neoplasm of brain and other parts of central nervous system,D10-D36,category,AZ
+D33,Benign neoplasm of brain and other parts of central nervous system,D10-D36,category,CA
+D33,Benign neoplasm of brain and other parts of central nervous system,D10-D36,category,KS
+D33,Benign neoplasm of brain and other parts of central nervous system,D10-D36,category,UT
+F93,Emotional disorders with onset specific to childhood,F90-F98,category,PA
+F93,Emotional disorders with onset specific to childhood,F90-F98,category,ND
+F93,Emotional disorders with onset specific to childhood,F90-F98,category,NY
+F93,Emotional disorders with onset specific to childhood,F90-F98,category,ID
+F93,Emotional disorders with onset specific to childhood,F90-F98,category,OK
+F93,Emotional disorders with onset specific to childhood,F90-F98,category,IN
+F93,Emotional disorders with onset specific to childhood,F90-F98,category,NE
+F93,Emotional disorders with onset specific to childhood,F90-F98,category,GA
+F93,Emotional disorders with onset specific to childhood,F90-F98,category,TX
+F93,Emotional disorders with onset specific to childhood,F90-F98,category,FL
+F93,Emotional disorders with onset specific to childhood,F90-F98,category,MI
+F93,Emotional disorders with onset specific to childhood,F90-F98,category,OH
+F93,Emotional disorders with onset specific to childhood,F90-F98,category,OR
+F93,Emotional disorders with onset specific to childhood,F90-F98,category,IL
+F93,Emotional disorders with onset specific to childhood,F90-F98,category,AZ
+F93,Emotional disorders with onset specific to childhood,F90-F98,category,LA
+F93,Emotional disorders with onset specific to childhood,F90-F98,category,NV
+F93,Emotional disorders with onset specific to childhood,F90-F98,category,CA
+F93,Emotional disorders with onset specific to childhood,F90-F98,category,UT
+F93,Emotional disorders with onset specific to childhood,F90-F98,category,IA
+D81,Combined immunodeficiencies,D80-D89,category,ID
+D81,Combined immunodeficiencies,D80-D89,category,NE
+D81,Combined immunodeficiencies,D80-D89,category,IN
+D81,Combined immunodeficiencies,D80-D89,category,PA
+D81,Combined immunodeficiencies,D80-D89,category,TX
+D81,Combined immunodeficiencies,D80-D89,category,OK
+D81,Combined immunodeficiencies,D80-D89,category,IL
+D81,Combined immunodeficiencies,D80-D89,category,GA
+D81,Combined immunodeficiencies,D80-D89,category,OH
+D81,Combined immunodeficiencies,D80-D89,category,MI
+D81,Combined immunodeficiencies,D80-D89,category,NV
+D81,Combined immunodeficiencies,D80-D89,category,AZ
+D81,Combined immunodeficiencies,D80-D89,category,FL
+D81,Combined immunodeficiencies,D80-D89,category,LA
+D81,Combined immunodeficiencies,D80-D89,category,OR
+D81,Combined immunodeficiencies,D80-D89,category,NY
+D81,Combined immunodeficiencies,D80-D89,category,CA
+D81,Combined immunodeficiencies,D80-D89,category,UT
+F94,Disorders of social functioning with onset specific to childhood and adolescence,F90-F98,category,ID
+F94,Disorders of social functioning with onset specific to childhood and adolescence,F90-F98,category,KS
+F94,Disorders of social functioning with onset specific to childhood and adolescence,F90-F98,category,NY
+F94,Disorders of social functioning with onset specific to childhood and adolescence,F90-F98,category,PA
+F94,Disorders of social functioning with onset specific to childhood and adolescence,F90-F98,category,OR
+F94,Disorders of social functioning with onset specific to childhood and adolescence,F90-F98,category,NE
+F94,Disorders of social functioning with onset specific to childhood and adolescence,F90-F98,category,TX
+F94,Disorders of social functioning with onset specific to childhood and adolescence,F90-F98,category,GA
+F94,Disorders of social functioning with onset specific to childhood and adolescence,F90-F98,category,ND
+F94,Disorders of social functioning with onset specific to childhood and adolescence,F90-F98,category,OK
+F94,Disorders of social functioning with onset specific to childhood and adolescence,F90-F98,category,IN
+F94,Disorders of social functioning with onset specific to childhood and adolescence,F90-F98,category,FL
+F94,Disorders of social functioning with onset specific to childhood and adolescence,F90-F98,category,MI
+F94,Disorders of social functioning with onset specific to childhood and adolescence,F90-F98,category,OH
+F94,Disorders of social functioning with onset specific to childhood and adolescence,F90-F98,category,IL
+F94,Disorders of social functioning with onset specific to childhood and adolescence,F90-F98,category,LA
+F94,Disorders of social functioning with onset specific to childhood and adolescence,F90-F98,category,NV
+F94,Disorders of social functioning with onset specific to childhood and adolescence,F90-F98,category,AZ
+F94,Disorders of social functioning with onset specific to childhood and adolescence,F90-F98,category,CA
+F94,Disorders of social functioning with onset specific to childhood and adolescence,F90-F98,category,UT
+F94,Disorders of social functioning with onset specific to childhood and adolescence,F90-F98,category,IA
+R76,Other abnormal immunological findings in serum,R70-R79,category,KS
+R76,Other abnormal immunological findings in serum,R70-R79,category,PA
+R76,Other abnormal immunological findings in serum,R70-R79,category,TX
+R76,Other abnormal immunological findings in serum,R70-R79,category,ND
+R76,Other abnormal immunological findings in serum,R70-R79,category,CA
+R76,Other abnormal immunological findings in serum,R70-R79,category,OR
+R76,Other abnormal immunological findings in serum,R70-R79,category,OK
+R76,Other abnormal immunological findings in serum,R70-R79,category,ID
+R76,Other abnormal immunological findings in serum,R70-R79,category,NY
+R76,Other abnormal immunological findings in serum,R70-R79,category,GA
+R76,Other abnormal immunological findings in serum,R70-R79,category,IN
+R76,Other abnormal immunological findings in serum,R70-R79,category,IA
+R76,Other abnormal immunological findings in serum,R70-R79,category,MI
+R76,Other abnormal immunological findings in serum,R70-R79,category,IL
+R76,Other abnormal immunological findings in serum,R70-R79,category,AZ
+R76,Other abnormal immunological findings in serum,R70-R79,category,OH
+R76,Other abnormal immunological findings in serum,R70-R79,category,FL
+R76,Other abnormal immunological findings in serum,R70-R79,category,NE
+R76,Other abnormal immunological findings in serum,R70-R79,category,LA
+R76,Other abnormal immunological findings in serum,R70-R79,category,NV
+R76,Other abnormal immunological findings in serum,R70-R79,category,UT
+D25,Leiomyoma of uterus,D10-D36,category,OH
+D25,Leiomyoma of uterus,D10-D36,category,OK
+D25,Leiomyoma of uterus,D10-D36,category,TX
+D25,Leiomyoma of uterus,D10-D36,category,GA
+D25,Leiomyoma of uterus,D10-D36,category,PA
+D25,Leiomyoma of uterus,D10-D36,category,ID
+D25,Leiomyoma of uterus,D10-D36,category,NE
+D25,Leiomyoma of uterus,D10-D36,category,MI
+D25,Leiomyoma of uterus,D10-D36,category,OR
+D25,Leiomyoma of uterus,D10-D36,category,NV
+D25,Leiomyoma of uterus,D10-D36,category,IA
+D25,Leiomyoma of uterus,D10-D36,category,LA
+D25,Leiomyoma of uterus,D10-D36,category,IN
+D25,Leiomyoma of uterus,D10-D36,category,AZ
+D25,Leiomyoma of uterus,D10-D36,category,FL
+D25,Leiomyoma of uterus,D10-D36,category,CA
+D25,Leiomyoma of uterus,D10-D36,category,UT
+D25,Leiomyoma of uterus,D10-D36,category,NY
+D35,Benign neoplasm of other and unspecified endocrine glands,D10-D36,category,PA
+D35,Benign neoplasm of other and unspecified endocrine glands,D10-D36,category,TX
+D35,Benign neoplasm of other and unspecified endocrine glands,D10-D36,category,OK
+D35,Benign neoplasm of other and unspecified endocrine glands,D10-D36,category,ID
+D35,Benign neoplasm of other and unspecified endocrine glands,D10-D36,category,OR
+D35,Benign neoplasm of other and unspecified endocrine glands,D10-D36,category,IN
+D35,Benign neoplasm of other and unspecified endocrine glands,D10-D36,category,GA
+D35,Benign neoplasm of other and unspecified endocrine glands,D10-D36,category,IL
+D35,Benign neoplasm of other and unspecified endocrine glands,D10-D36,category,MI
+D35,Benign neoplasm of other and unspecified endocrine glands,D10-D36,category,NE
+D35,Benign neoplasm of other and unspecified endocrine glands,D10-D36,category,NV
+D35,Benign neoplasm of other and unspecified endocrine glands,D10-D36,category,FL
+D35,Benign neoplasm of other and unspecified endocrine glands,D10-D36,category,OH
+D35,Benign neoplasm of other and unspecified endocrine glands,D10-D36,category,IA
+D35,Benign neoplasm of other and unspecified endocrine glands,D10-D36,category,AZ
+D35,Benign neoplasm of other and unspecified endocrine glands,D10-D36,category,CA
+D35,Benign neoplasm of other and unspecified endocrine glands,D10-D36,category,NY
+D35,Benign neoplasm of other and unspecified endocrine glands,D10-D36,category,ND
+J06,Acute upper respiratory infections of multiple and unspecified sites,J00-J06,category,NY
+J06,Acute upper respiratory infections of multiple and unspecified sites,J00-J06,category,OK
+J06,Acute upper respiratory infections of multiple and unspecified sites,J00-J06,category,PA
+J06,Acute upper respiratory infections of multiple and unspecified sites,J00-J06,category,IA
+J06,Acute upper respiratory infections of multiple and unspecified sites,J00-J06,category,ND
+J06,Acute upper respiratory infections of multiple and unspecified sites,J00-J06,category,GA
+J06,Acute upper respiratory infections of multiple and unspecified sites,J00-J06,category,ID
+J06,Acute upper respiratory infections of multiple and unspecified sites,J00-J06,category,LA
+J06,Acute upper respiratory infections of multiple and unspecified sites,J00-J06,category,IN
+J06,Acute upper respiratory infections of multiple and unspecified sites,J00-J06,category,FL
+J06,Acute upper respiratory infections of multiple and unspecified sites,J00-J06,category,TX
+J06,Acute upper respiratory infections of multiple and unspecified sites,J00-J06,category,OH
+J06,Acute upper respiratory infections of multiple and unspecified sites,J00-J06,category,MI
+J06,Acute upper respiratory infections of multiple and unspecified sites,J00-J06,category,NE
+J06,Acute upper respiratory infections of multiple and unspecified sites,J00-J06,category,OR
+J06,Acute upper respiratory infections of multiple and unspecified sites,J00-J06,category,IL
+J06,Acute upper respiratory infections of multiple and unspecified sites,J00-J06,category,NV
+J06,Acute upper respiratory infections of multiple and unspecified sites,J00-J06,category,AZ
+J06,Acute upper respiratory infections of multiple and unspecified sites,J00-J06,category,CA
+J06,Acute upper respiratory infections of multiple and unspecified sites,J00-J06,category,UT
+D14,Benign neoplasm of middle ear and respiratory system,D10-D36,category,OH
+D14,Benign neoplasm of middle ear and respiratory system,D10-D36,category,ID
+D14,Benign neoplasm of middle ear and respiratory system,D10-D36,category,PA
+D14,Benign neoplasm of middle ear and respiratory system,D10-D36,category,ND
+D14,Benign neoplasm of middle ear and respiratory system,D10-D36,category,TX
+D14,Benign neoplasm of middle ear and respiratory system,D10-D36,category,OK
+D14,Benign neoplasm of middle ear and respiratory system,D10-D36,category,NE
+D14,Benign neoplasm of middle ear and respiratory system,D10-D36,category,MI
+D14,Benign neoplasm of middle ear and respiratory system,D10-D36,category,IL
+D14,Benign neoplasm of middle ear and respiratory system,D10-D36,category,IA
+D14,Benign neoplasm of middle ear and respiratory system,D10-D36,category,FL
+D14,Benign neoplasm of middle ear and respiratory system,D10-D36,category,GA
+D14,Benign neoplasm of middle ear and respiratory system,D10-D36,category,OR
+D14,Benign neoplasm of middle ear and respiratory system,D10-D36,category,IN
+D14,Benign neoplasm of middle ear and respiratory system,D10-D36,category,AZ
+D14,Benign neoplasm of middle ear and respiratory system,D10-D36,category,NV
+D14,Benign neoplasm of middle ear and respiratory system,D10-D36,category,CA
+D14,Benign neoplasm of middle ear and respiratory system,D10-D36,category,NY
+A92,Other mosquito-borne viral fevers,A92-A99,category,ID
+A92,Other mosquito-borne viral fevers,A92-A99,category,PA
+A92,Other mosquito-borne viral fevers,A92-A99,category,FL
+A92,Other mosquito-borne viral fevers,A92-A99,category,OK
+A92,Other mosquito-borne viral fevers,A92-A99,category,NY
+A92,Other mosquito-borne viral fevers,A92-A99,category,NE
+A92,Other mosquito-borne viral fevers,A92-A99,category,ND
+A92,Other mosquito-borne viral fevers,A92-A99,category,IN
+A92,Other mosquito-borne viral fevers,A92-A99,category,MI
+A92,Other mosquito-borne viral fevers,A92-A99,category,OR
+A92,Other mosquito-borne viral fevers,A92-A99,category,TX
+A92,Other mosquito-borne viral fevers,A92-A99,category,OH
+A92,Other mosquito-borne viral fevers,A92-A99,category,IL
+A92,Other mosquito-borne viral fevers,A92-A99,category,AZ
+A92,Other mosquito-borne viral fevers,A92-A99,category,GA
+A92,Other mosquito-borne viral fevers,A92-A99,category,NV
+A92,Other mosquito-borne viral fevers,A92-A99,category,LA
+A92,Other mosquito-borne viral fevers,A92-A99,category,CA
+A92,Other mosquito-borne viral fevers,A92-A99,category,UT
+I68,Cerebrovascular disorders in diseases classified elsewhere,I60-I69,category,ID
+I68,Cerebrovascular disorders in diseases classified elsewhere,I60-I69,category,NE
+I68,Cerebrovascular disorders in diseases classified elsewhere,I60-I69,category,OK
+I68,Cerebrovascular disorders in diseases classified elsewhere,I60-I69,category,TX
+I68,Cerebrovascular disorders in diseases classified elsewhere,I60-I69,category,PA
+I68,Cerebrovascular disorders in diseases classified elsewhere,I60-I69,category,GA
+I68,Cerebrovascular disorders in diseases classified elsewhere,I60-I69,category,ND
+I68,Cerebrovascular disorders in diseases classified elsewhere,I60-I69,category,OR
+I68,Cerebrovascular disorders in diseases classified elsewhere,I60-I69,category,IN
+I68,Cerebrovascular disorders in diseases classified elsewhere,I60-I69,category,LA
+I68,Cerebrovascular disorders in diseases classified elsewhere,I60-I69,category,MI
+I68,Cerebrovascular disorders in diseases classified elsewhere,I60-I69,category,IL
+I68,Cerebrovascular disorders in diseases classified elsewhere,I60-I69,category,FL
+I68,Cerebrovascular disorders in diseases classified elsewhere,I60-I69,category,NV
+I68,Cerebrovascular disorders in diseases classified elsewhere,I60-I69,category,IA
+I68,Cerebrovascular disorders in diseases classified elsewhere,I60-I69,category,AZ
+I68,Cerebrovascular disorders in diseases classified elsewhere,I60-I69,category,NY
+I68,Cerebrovascular disorders in diseases classified elsewhere,I60-I69,category,UT
+D64,Other anaemias,D60-D64,category,NE
+D64,Other anaemias,D60-D64,category,ID
+D64,Other anaemias,D60-D64,category,LA
+D64,Other anaemias,D60-D64,category,PA
+D64,Other anaemias,D60-D64,category,TX
+D64,Other anaemias,D60-D64,category,OH
+D64,Other anaemias,D60-D64,category,ND
+D64,Other anaemias,D60-D64,category,OK
+D64,Other anaemias,D60-D64,category,IN
+D64,Other anaemias,D60-D64,category,OR
+D64,Other anaemias,D60-D64,category,IL
+D64,Other anaemias,D60-D64,category,NY
+D64,Other anaemias,D60-D64,category,GA
+D64,Other anaemias,D60-D64,category,FL
+D64,Other anaemias,D60-D64,category,AZ
+D64,Other anaemias,D60-D64,category,CA
+D64,Other anaemias,D60-D64,category,NV
+D64,Other anaemias,D60-D64,category,MI
+D64,Other anaemias,D60-D64,category,UT
+A98,"Other viral haemorrhagic fevers, not elsewhere classified",A92-A99,category,NY
+A98,"Other viral haemorrhagic fevers, not elsewhere classified",A92-A99,category,OK
+A98,"Other viral haemorrhagic fevers, not elsewhere classified",A92-A99,category,TX
+A98,"Other viral haemorrhagic fevers, not elsewhere classified",A92-A99,category,OR
+A98,"Other viral haemorrhagic fevers, not elsewhere classified",A92-A99,category,PA
+A98,"Other viral haemorrhagic fevers, not elsewhere classified",A92-A99,category,IN
+A98,"Other viral haemorrhagic fevers, not elsewhere classified",A92-A99,category,ID
+A98,"Other viral haemorrhagic fevers, not elsewhere classified",A92-A99,category,MI
+A98,"Other viral haemorrhagic fevers, not elsewhere classified",A92-A99,category,LA
+A98,"Other viral haemorrhagic fevers, not elsewhere classified",A92-A99,category,FL
+A98,"Other viral haemorrhagic fevers, not elsewhere classified",A92-A99,category,AZ
+A98,"Other viral haemorrhagic fevers, not elsewhere classified",A92-A99,category,NE
+A98,"Other viral haemorrhagic fevers, not elsewhere classified",A92-A99,category,GA
+A98,"Other viral haemorrhagic fevers, not elsewhere classified",A92-A99,category,OH
+A98,"Other viral haemorrhagic fevers, not elsewhere classified",A92-A99,category,NV
+A98,"Other viral haemorrhagic fevers, not elsewhere classified",A92-A99,category,IL
+A98,"Other viral haemorrhagic fevers, not elsewhere classified",A92-A99,category,CA
+D12,"Benign neoplasm of colon, rectum, anus and anal canal",D10-D36,category,PA
+D12,"Benign neoplasm of colon, rectum, anus and anal canal",D10-D36,category,ID
+D12,"Benign neoplasm of colon, rectum, anus and anal canal",D10-D36,category,NY
+D12,"Benign neoplasm of colon, rectum, anus and anal canal",D10-D36,category,TX
+D12,"Benign neoplasm of colon, rectum, anus and anal canal",D10-D36,category,ND
+D12,"Benign neoplasm of colon, rectum, anus and anal canal",D10-D36,category,OK
+D12,"Benign neoplasm of colon, rectum, anus and anal canal",D10-D36,category,NE
+D12,"Benign neoplasm of colon, rectum, anus and anal canal",D10-D36,category,OR
+D12,"Benign neoplasm of colon, rectum, anus and anal canal",D10-D36,category,IN
+D12,"Benign neoplasm of colon, rectum, anus and anal canal",D10-D36,category,MI
+D12,"Benign neoplasm of colon, rectum, anus and anal canal",D10-D36,category,GA
+D12,"Benign neoplasm of colon, rectum, anus and anal canal",D10-D36,category,CA
+D12,"Benign neoplasm of colon, rectum, anus and anal canal",D10-D36,category,OH
+D12,"Benign neoplasm of colon, rectum, anus and anal canal",D10-D36,category,IL
+D12,"Benign neoplasm of colon, rectum, anus and anal canal",D10-D36,category,NV
+D12,"Benign neoplasm of colon, rectum, anus and anal canal",D10-D36,category,AZ
+D12,"Benign neoplasm of colon, rectum, anus and anal canal",D10-D36,category,FL
+D12,"Benign neoplasm of colon, rectum, anus and anal canal",D10-D36,category,IA
+D12,"Benign neoplasm of colon, rectum, anus and anal canal",D10-D36,category,UT
+F95,Tic disorders,F90-F98,category,OK
+F95,Tic disorders,F90-F98,category,NY
+F95,Tic disorders,F90-F98,category,PA
+F95,Tic disorders,F90-F98,category,OH
+F95,Tic disorders,F90-F98,category,IN
+F95,Tic disorders,F90-F98,category,MI
+F95,Tic disorders,F90-F98,category,TX
+F95,Tic disorders,F90-F98,category,OR
+F95,Tic disorders,F90-F98,category,ID
+F95,Tic disorders,F90-F98,category,ND
+F95,Tic disorders,F90-F98,category,GA
+F95,Tic disorders,F90-F98,category,NE
+F95,Tic disorders,F90-F98,category,IL
+F95,Tic disorders,F90-F98,category,NV
+F95,Tic disorders,F90-F98,category,LA
+F95,Tic disorders,F90-F98,category,FL
+F95,Tic disorders,F90-F98,category,IA
+F95,Tic disorders,F90-F98,category,AZ
+F95,Tic disorders,F90-F98,category,CA
+F95,Tic disorders,F90-F98,category,UT
+D61,Other aplastic anaemias,D60-D64,category,PA
+D61,Other aplastic anaemias,D60-D64,category,ID
+D61,Other aplastic anaemias,D60-D64,category,OR
+D61,Other aplastic anaemias,D60-D64,category,NE
+D61,Other aplastic anaemias,D60-D64,category,MI
+D61,Other aplastic anaemias,D60-D64,category,IN
+D61,Other aplastic anaemias,D60-D64,category,OK
+D61,Other aplastic anaemias,D60-D64,category,TX
+D61,Other aplastic anaemias,D60-D64,category,NY
+D61,Other aplastic anaemias,D60-D64,category,FL
+D61,Other aplastic anaemias,D60-D64,category,GA
+D61,Other aplastic anaemias,D60-D64,category,LA
+D61,Other aplastic anaemias,D60-D64,category,IL
+D61,Other aplastic anaemias,D60-D64,category,OH
+D61,Other aplastic anaemias,D60-D64,category,AZ
+D61,Other aplastic anaemias,D60-D64,category,NV
+D61,Other aplastic anaemias,D60-D64,category,CA
+D61,Other aplastic anaemias,D60-D64,category,UT
+G83,Other paralytic syndromes,G80-G83,category,OK
+G83,Other paralytic syndromes,G80-G83,category,PA
+G83,Other paralytic syndromes,G80-G83,category,TX
+G83,Other paralytic syndromes,G80-G83,category,OR
+G83,Other paralytic syndromes,G80-G83,category,GA
+G83,Other paralytic syndromes,G80-G83,category,IL
+G83,Other paralytic syndromes,G80-G83,category,MI
+G83,Other paralytic syndromes,G80-G83,category,IN
+G83,Other paralytic syndromes,G80-G83,category,FL
+G83,Other paralytic syndromes,G80-G83,category,LA
+G83,Other paralytic syndromes,G80-G83,category,OH
+G83,Other paralytic syndromes,G80-G83,category,NE
+G83,Other paralytic syndromes,G80-G83,category,NV
+G83,Other paralytic syndromes,G80-G83,category,AZ
+G83,Other paralytic syndromes,G80-G83,category,NY
+G83,Other paralytic syndromes,G80-G83,category,CA
+D32,Benign neoplasm of meninges,D10-D36,category,OH
+D32,Benign neoplasm of meninges,D10-D36,category,KS
+D32,Benign neoplasm of meninges,D10-D36,category,OK
+D32,Benign neoplasm of meninges,D10-D36,category,PA
+D32,Benign neoplasm of meninges,D10-D36,category,GA
+D32,Benign neoplasm of meninges,D10-D36,category,ID
+D32,Benign neoplasm of meninges,D10-D36,category,NE
+D32,Benign neoplasm of meninges,D10-D36,category,AZ
+D32,Benign neoplasm of meninges,D10-D36,category,IN
+D32,Benign neoplasm of meninges,D10-D36,category,TX
+D32,Benign neoplasm of meninges,D10-D36,category,FL
+D32,Benign neoplasm of meninges,D10-D36,category,OR
+D32,Benign neoplasm of meninges,D10-D36,category,NY
+D32,Benign neoplasm of meninges,D10-D36,category,NV
+D32,Benign neoplasm of meninges,D10-D36,category,MI
+D32,Benign neoplasm of meninges,D10-D36,category,LA
+D32,Benign neoplasm of meninges,D10-D36,category,IA
+D32,Benign neoplasm of meninges,D10-D36,category,IL
+D32,Benign neoplasm of meninges,D10-D36,category,CA
+D32,Benign neoplasm of meninges,D10-D36,category,UT
+J04,Acute laryngitis and tracheitis,J00-J06,category,NE
+J04,Acute laryngitis and tracheitis,J00-J06,category,ID
+J04,Acute laryngitis and tracheitis,J00-J06,category,PA
+J04,Acute laryngitis and tracheitis,J00-J06,category,OK
+J04,Acute laryngitis and tracheitis,J00-J06,category,NY
+J04,Acute laryngitis and tracheitis,J00-J06,category,LA
+J04,Acute laryngitis and tracheitis,J00-J06,category,OR
+J04,Acute laryngitis and tracheitis,J00-J06,category,ND
+J04,Acute laryngitis and tracheitis,J00-J06,category,TX
+J04,Acute laryngitis and tracheitis,J00-J06,category,IN
+J04,Acute laryngitis and tracheitis,J00-J06,category,FL
+J04,Acute laryngitis and tracheitis,J00-J06,category,IL
+J04,Acute laryngitis and tracheitis,J00-J06,category,GA
+J04,Acute laryngitis and tracheitis,J00-J06,category,AZ
+J04,Acute laryngitis and tracheitis,J00-J06,category,OH
+J04,Acute laryngitis and tracheitis,J00-J06,category,MI
+J04,Acute laryngitis and tracheitis,J00-J06,category,NV
+J04,Acute laryngitis and tracheitis,J00-J06,category,CA
+J04,Acute laryngitis and tracheitis,J00-J06,category,UT
+D60,Acquired pure red cell aplasia [erythroblastopenia],D60-D64,category,PA
+D60,Acquired pure red cell aplasia [erythroblastopenia],D60-D64,category,ID
+D60,Acquired pure red cell aplasia [erythroblastopenia],D60-D64,category,IN
+D60,Acquired pure red cell aplasia [erythroblastopenia],D60-D64,category,OK
+D60,Acquired pure red cell aplasia [erythroblastopenia],D60-D64,category,NY
+D60,Acquired pure red cell aplasia [erythroblastopenia],D60-D64,category,MI
+D60,Acquired pure red cell aplasia [erythroblastopenia],D60-D64,category,LA
+D60,Acquired pure red cell aplasia [erythroblastopenia],D60-D64,category,GA
+D60,Acquired pure red cell aplasia [erythroblastopenia],D60-D64,category,NE
+D60,Acquired pure red cell aplasia [erythroblastopenia],D60-D64,category,FL
+D60,Acquired pure red cell aplasia [erythroblastopenia],D60-D64,category,TX
+D60,Acquired pure red cell aplasia [erythroblastopenia],D60-D64,category,OR
+D60,Acquired pure red cell aplasia [erythroblastopenia],D60-D64,category,ND
+D60,Acquired pure red cell aplasia [erythroblastopenia],D60-D64,category,NV
+D60,Acquired pure red cell aplasia [erythroblastopenia],D60-D64,category,OH
+D60,Acquired pure red cell aplasia [erythroblastopenia],D60-D64,category,IL
+D60,Acquired pure red cell aplasia [erythroblastopenia],D60-D64,category,AZ
+D60,Acquired pure red cell aplasia [erythroblastopenia],D60-D64,category,IA
+D60,Acquired pure red cell aplasia [erythroblastopenia],D60-D64,category,CA
+D60,Acquired pure red cell aplasia [erythroblastopenia],D60-D64,category,UT
+L10,Pemphigus,L10-L14,category,ID
+L10,Pemphigus,L10-L14,category,OK
+L10,Pemphigus,L10-L14,category,TX
+L10,Pemphigus,L10-L14,category,IN
+L10,Pemphigus,L10-L14,category,NE
+L10,Pemphigus,L10-L14,category,MI
+L10,Pemphigus,L10-L14,category,ND
+L10,Pemphigus,L10-L14,category,LA
+L10,Pemphigus,L10-L14,category,PA
+L10,Pemphigus,L10-L14,category,OR
+L10,Pemphigus,L10-L14,category,NV
+L10,Pemphigus,L10-L14,category,IL
+L10,Pemphigus,L10-L14,category,AZ
+L10,Pemphigus,L10-L14,category,FL
+L10,Pemphigus,L10-L14,category,NY
+L10,Pemphigus,L10-L14,category,GA
+L10,Pemphigus,L10-L14,category,OH
+L10,Pemphigus,L10-L14,category,CA
+L10,Pemphigus,L10-L14,category,UT
+D83,Common variable immunodeficiency,D80-D89,category,NY
+D83,Common variable immunodeficiency,D80-D89,category,PA
+D83,Common variable immunodeficiency,D80-D89,category,IN
+D83,Common variable immunodeficiency,D80-D89,category,OK
+D83,Common variable immunodeficiency,D80-D89,category,MI
+D83,Common variable immunodeficiency,D80-D89,category,NE
+D83,Common variable immunodeficiency,D80-D89,category,TX
+D83,Common variable immunodeficiency,D80-D89,category,GA
+D83,Common variable immunodeficiency,D80-D89,category,LA
+D83,Common variable immunodeficiency,D80-D89,category,FL
+D83,Common variable immunodeficiency,D80-D89,category,IL
+D83,Common variable immunodeficiency,D80-D89,category,NV
+D83,Common variable immunodeficiency,D80-D89,category,OH
+D83,Common variable immunodeficiency,D80-D89,category,ID
+D83,Common variable immunodeficiency,D80-D89,category,AZ
+D83,Common variable immunodeficiency,D80-D89,category,CA
+D83,Common variable immunodeficiency,D80-D89,category,OR
+P14,Birth injury to peripheral nervous system,P10-P15,category,NY
+P14,Birth injury to peripheral nervous system,P10-P15,category,OK
+P14,Birth injury to peripheral nervous system,P10-P15,category,IN
+P14,Birth injury to peripheral nervous system,P10-P15,category,ID
+P14,Birth injury to peripheral nervous system,P10-P15,category,MI
+P14,Birth injury to peripheral nervous system,P10-P15,category,NE
+P14,Birth injury to peripheral nervous system,P10-P15,category,GA
+P14,Birth injury to peripheral nervous system,P10-P15,category,PA
+P14,Birth injury to peripheral nervous system,P10-P15,category,FL
+P14,Birth injury to peripheral nervous system,P10-P15,category,LA
+P14,Birth injury to peripheral nervous system,P10-P15,category,IL
+P14,Birth injury to peripheral nervous system,P10-P15,category,OH
+P14,Birth injury to peripheral nervous system,P10-P15,category,NV
+P14,Birth injury to peripheral nervous system,P10-P15,category,TX
+P14,Birth injury to peripheral nervous system,P10-P15,category,AZ
+P14,Birth injury to peripheral nervous system,P10-P15,category,UT
+P14,Birth injury to peripheral nervous system,P10-P15,category,OR
+P14,Birth injury to peripheral nervous system,P10-P15,category,CA
+P13,Birth injury to skeleton,P10-P15,category,OK
+P13,Birth injury to skeleton,P10-P15,category,PA
+P13,Birth injury to skeleton,P10-P15,category,NY
+P13,Birth injury to skeleton,P10-P15,category,ID
+P13,Birth injury to skeleton,P10-P15,category,IN
+P13,Birth injury to skeleton,P10-P15,category,LA
+P13,Birth injury to skeleton,P10-P15,category,ND
+P13,Birth injury to skeleton,P10-P15,category,GA
+P13,Birth injury to skeleton,P10-P15,category,MI
+P13,Birth injury to skeleton,P10-P15,category,TX
+P13,Birth injury to skeleton,P10-P15,category,FL
+P13,Birth injury to skeleton,P10-P15,category,IL
+P13,Birth injury to skeleton,P10-P15,category,OH
+P13,Birth injury to skeleton,P10-P15,category,OR
+P13,Birth injury to skeleton,P10-P15,category,NV
+P13,Birth injury to skeleton,P10-P15,category,NE
+P13,Birth injury to skeleton,P10-P15,category,AZ
+P13,Birth injury to skeleton,P10-P15,category,CA
+P13,Birth injury to skeleton,P10-P15,category,UT
+D63,Anaemia in chronic diseases classified elsewhere,D60-D64,category,PA
+D63,Anaemia in chronic diseases classified elsewhere,D60-D64,category,ID
+D63,Anaemia in chronic diseases classified elsewhere,D60-D64,category,MI
+D63,Anaemia in chronic diseases classified elsewhere,D60-D64,category,TX
+D63,Anaemia in chronic diseases classified elsewhere,D60-D64,category,NE
+D63,Anaemia in chronic diseases classified elsewhere,D60-D64,category,OK
+D63,Anaemia in chronic diseases classified elsewhere,D60-D64,category,LA
+D63,Anaemia in chronic diseases classified elsewhere,D60-D64,category,ND
+D63,Anaemia in chronic diseases classified elsewhere,D60-D64,category,IN
+D63,Anaemia in chronic diseases classified elsewhere,D60-D64,category,GA
+D63,Anaemia in chronic diseases classified elsewhere,D60-D64,category,IL
+D63,Anaemia in chronic diseases classified elsewhere,D60-D64,category,OH
+D63,Anaemia in chronic diseases classified elsewhere,D60-D64,category,NY
+D63,Anaemia in chronic diseases classified elsewhere,D60-D64,category,FL
+D63,Anaemia in chronic diseases classified elsewhere,D60-D64,category,AZ
+D63,Anaemia in chronic diseases classified elsewhere,D60-D64,category,NV
+D63,Anaemia in chronic diseases classified elsewhere,D60-D64,category,CA
+D63,Anaemia in chronic diseases classified elsewhere,D60-D64,category,OR
+D63,Anaemia in chronic diseases classified elsewhere,D60-D64,category,UT
+F91,Conduct disorders,F90-F98,category,ID
+F91,Conduct disorders,F90-F98,category,OK
+F91,Conduct disorders,F90-F98,category,NE
+F91,Conduct disorders,F90-F98,category,MI
+F91,Conduct disorders,F90-F98,category,ND
+F91,Conduct disorders,F90-F98,category,PA
+F91,Conduct disorders,F90-F98,category,TX
+F91,Conduct disorders,F90-F98,category,NY
+F91,Conduct disorders,F90-F98,category,IN
+F91,Conduct disorders,F90-F98,category,GA
+F91,Conduct disorders,F90-F98,category,LA
+F91,Conduct disorders,F90-F98,category,IA
+F91,Conduct disorders,F90-F98,category,OR
+F91,Conduct disorders,F90-F98,category,OH
+F91,Conduct disorders,F90-F98,category,IL
+F91,Conduct disorders,F90-F98,category,FL
+F91,Conduct disorders,F90-F98,category,NV
+F91,Conduct disorders,F90-F98,category,AZ
+F91,Conduct disorders,F90-F98,category,CA
+F91,Conduct disorders,F90-F98,category,UT
