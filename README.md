@@ -10,7 +10,7 @@ The goal of this challenge was to analyze and extract valuable insights from hea
 2. Performing a time series analysis on different APC services.
 3. Conducting geographical analysis based on state-level data for affordable providers.
 4. Analyzing the top 10 prominent inpatient ICD-10 diagnoses based on state and their ICD-10 Chapter and Block descriptions.
-5. 
+
 ## Contents
 
 A Jupyter notebook containing the full data analysis pipeline. This includes:
